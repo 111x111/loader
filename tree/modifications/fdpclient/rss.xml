@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>FDPClient - Чит для Minecraft</title>
+
+        <link>https://exloader.net/tree/modifications/fdpclient/</link>
+        <atom:link href="https://exloader.net/tree/modifications/fdpclient/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>FDPClient - это так называемый мод-клиент для игры Minecraft. Использование такого клиента дает вам значительные преимущества над другими игроками. В отличие от большинства альтернатив, FDPClient полностью бесплатен, имеет открытый исходный код и совместим с Forge.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Fri, 23 Sep 2022 22:00:00 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                FDPClient - Чит для Minecraft
+
+                <img alt="FDPClient - Чит для Minecraft" src="https://data.exloader.net/webp_images/FDP/menu.webp">
+
+                FDPClient - это так называемый мод-клиент для игры Minecraft. Использование такого клиента дает вам значительные преимущества над другими игроками. В отличие от большинства альтернатив, FDPClient полностью бесплатен, имеет открытый исходный код и совместим с Forge.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

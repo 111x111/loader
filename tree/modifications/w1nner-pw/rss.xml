@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>W1nner.pw - Чит для CS:GO</title>
+
+        <link>https://exloader.net/tree/modifications/w1nner-pw/</link>
+        <atom:link href="https://exloader.net/tree/modifications/w1nner-pw/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Красивый мод с обильным количеством функций под Rage функционал. Выделяется наличием системы облачных кфг.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Sun, 13 Feb 2022 17:57:32 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                W1nner.pw - Чит для CS:GO
+
+                <img alt="W1nner.pw - Чит для CS:GO" src="https://data.exloader.net/webp_images/W1nner/bots_edited.webp">
+
+                Красивый мод с обильным количеством функций под Rage функционал. Выделяется наличием системы облачных кфг.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

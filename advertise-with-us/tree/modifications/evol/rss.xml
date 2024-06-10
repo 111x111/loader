@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>EVOL - Чит для CS 1.6</title>
+
+        <link>https://exloader.net/tree/modifications/evol/</link>
+        <atom:link href="https://exloader.net/tree/modifications/evol/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Модификация с необыкновенным меню, обладает немного неудобной системой кфг и подходит для игры на любой версии CS 1.6, как стим, так и пиратке!</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Mon, 19 Apr 2021 09:08:58 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                EVOL - Чит для CS 1.6
+
+                <img alt="EVOL - Чит для CS 1.6" src="https://data.exloader.net/webp_images/evol/visuals.webp">
+
+                Модификация с необыкновенным меню, обладает немного неудобной системой кфг и подходит для игры на любой версии CS 1.6, как стим, так и пиратке!
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>HeistEditor - Чит для GTA V</title>
+
+        <link>https://exloader.net/tree/modifications/heisteditor/</link>
+        <atom:link href="https://exloader.net/tree/modifications/heisteditor/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>External модификация, которая не внедряется в игру, а работает как внешний процесс, имеет гигантское количество функций, крайне сложна в настройке, однако, хорошо оптимизированна и крайне безопасна.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Wed, 06 Dec 2023 12:39:22 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                HeistEditor - Чит для GTA V
+
+                <img alt="HeistEditor - Чит для GTA V" src="https://data.exloader.net/webp_images/Heist%20Editor/casino.webp">
+
+                External модификация, которая не внедряется в игру, а работает как внешний процесс, имеет гигантское количество функций, крайне сложна в настройке, однако, хорошо оптимизированна и крайне безопасна.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

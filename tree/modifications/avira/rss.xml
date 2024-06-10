@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>AvirA - Чит для CS:GO</title>
+
+        <link>https://exloader.net/tree/modifications/avira/</link>
+        <atom:link href="https://exloader.net/tree/modifications/avira/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Рекорсмен по количеству функций среди всех модификаций под эту игру. Настраивать его вы будете минимум год, а может быть и два!</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Sat, 06 Nov 2021 11:32:35 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                AvirA - Чит для CS:GO
+
+                <img alt="AvirA - Чит для CS:GO" src="https://data.exloader.net/webp_images/Avira/aim_edited.webp">
+
+                Рекорсмен по количеству функций среди всех модификаций под эту игру. Настраивать его вы будете минимум год, а может быть и два!
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

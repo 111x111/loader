@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>GoESP - Чит для CS:GO</title>
+
+        <link>https://exloader.net/tree/modifications/goesp/</link>
+        <atom:link href="https://exloader.net/tree/modifications/goesp/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Модификация от разработчика Osiris, имеющая лишь визуальную составляющую. Никакого аим-бота или же другого функицонала, только ESP!</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Fri, 12 Aug 2022 08:00:00 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                GoESP - Чит для CS:GO
+
+                <img alt="GoESP - Чит для CS:GO" src="https://data.exloader.net/webp_images/GoESP/configs_edited.webp">
+
+                Модификация от разработчика Osiris, имеющая лишь визуальную составляющую. Никакого аим-бота или же другого функицонала, только ESP!
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

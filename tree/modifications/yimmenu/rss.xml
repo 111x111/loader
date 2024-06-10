@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>YimMenu - Чит для GTA V</title>
+
+        <link>https://exloader.net/tree/modifications/yimmenu/</link>
+        <atom:link href="https://exloader.net/tree/modifications/yimmenu/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Мод-база для Grand Theft Auto V. Создана строго для образовательных целей. YimMenu изначально основан на BigBaseV2, который был удивительным модом для своего времени.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Tue, 07 Mar 2023 14:13:33 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                YimMenu - Чит для GTA V
+
+                <img alt="YimMenu - Чит для GTA V" src="https://data.exloader.net/webp_images/YimMenu/self.webp">
+
+                Мод-база для Grand Theft Auto V. Создана строго для образовательных целей. YimMenu изначально основан на BigBaseV2, который был удивительным модом для своего времени.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

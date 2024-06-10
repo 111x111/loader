@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Nixware GMOD - Рейдж | Rage чит для Garry&apos;s Mod</title>
+
+        <link>https://exloader.net/tree/modifications/nixware-gmod/</link>
+        <atom:link href="https://exloader.net/tree/modifications/nixware-gmod/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>HvH модификация с менюшкой популярного CS:GO мода Nixware. Проста в настройке, выделяется красивыми анимациями и визуалами!</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Mon, 01 Apr 2024 09:15:38 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Nixware GMOD - Рейдж | Rage чит для Garry&apos;s Mod
+
+                <img alt="Nixware GMOD - Рейдж | Rage чит для Garry&apos;s Mod" src="https://data.exloader.net/webp_images/Nixware%20GMOD/gameplay.webp">
+
+                HvH модификация с менюшкой популярного CS:GO мода Nixware. Проста в настройке, выделяется красивыми анимациями и визуалами!
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

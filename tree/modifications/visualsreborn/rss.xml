@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>VisualsReborn - Легит | Legit чит для CS:Source</title>
+
+        <link>https://exloader.net/tree/modifications/visualsreborn/</link>
+        <atom:link href="https://exloader.net/tree/modifications/visualsreborn/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Мод с ужасным меню, невероятно сложной настройкой и обширным функционалом. Как говорится имеем, что имеем.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Tue, 29 Nov 2022 13:00:00 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                VisualsReborn - Легит | Legit чит для CS:Source
+
+                <img alt="VisualsReborn - Легит | Legit чит для CS:Source" src="https://data.exloader.net/webp_images/VisualsReborn/gameplay_edited.webp">
+
+                Мод с ужасным меню, невероятно сложной настройкой и обширным функционалом. Как говорится имеем, что имеем.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

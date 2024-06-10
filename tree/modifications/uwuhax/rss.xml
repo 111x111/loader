@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>UwUHax - Легит | Legit чит для Left 4 Dead 2</title>
+
+        <link>https://exloader.net/tree/modifications/uwuhax/</link>
+        <atom:link href="https://exloader.net/tree/modifications/uwuhax/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Простой, однако, удобный в настройке мод, имеет возможность сохранить свой кфг, не понижает производительность!</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Fri, 01 Dec 2023 18:40:28 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                UwUHax - Легит | Legit чит для Left 4 Dead 2
+
+                <img alt="UwUHax - Легит | Legit чит для Left 4 Dead 2" src="https://data.exloader.net/webp_images/UwUHax/gameplay.webp">
+
+                Простой, однако, удобный в настройке мод, имеет возможность сохранить свой кфг, не понижает производительность!
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

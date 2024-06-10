@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>LastDesirePro - Чит для Rust Pirate</title>
+
+        <link>https://exloader.net/tree/modifications/lastdesirepro/</link>
+        <atom:link href="https://exloader.net/tree/modifications/lastdesirepro/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Уникальный .NET Runtime мод, написанный на языке C#. Обладает удобным меню и системой конфигов.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Wed, 01 Mar 2023 15:34:31 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                LastDesirePro - Чит для Rust Pirate
+
+                <img alt="LastDesirePro - Чит для Rust Pirate" src="https://data.exloader.net/webp_images/LastDesirePro/ESP.webp">
+
+                Уникальный .NET Runtime мод, написанный на языке C#. Обладает удобным меню и системой конфигов.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

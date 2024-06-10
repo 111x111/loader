@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Airflow Beta - Чит для CS:GO</title>
+
+        <link>https://exloader.net/tree/modifications/airflow-beta/</link>
+        <atom:link href="https://exloader.net/tree/modifications/airflow-beta/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Кряк одной из самых популярных на своё время лоу-прайс модификаций под CS:GO, имеет гигантский функционал, однако, крайне сложна в настройке.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Thu, 30 Nov 2023 09:39:13 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Airflow Beta - Чит для CS:GO
+
+                <img alt="Airflow Beta - Чит для CS:GO" src="https://data.exloader.net/webp_images/Airflow%20Beta/rage.webp">
+
+                Кряк одной из самых популярных на своё время лоу-прайс модификаций под CS:GO, имеет гигантский функционал, однако, крайне сложна в настройке.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Ekknod - Легит | Legit чит для Apex</title>
+
+        <link>https://exloader.net/tree/modifications/ekknod_apex/</link>
+        <atom:link href="https://exloader.net/tree/modifications/ekknod_apex/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Крайне безопасная OpenSource External модификация, не понижающая траст-фактор. Включает в себя волхак, триггер-бот и аим-бот.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Sat, 10 Feb 2024 09:41:18 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Ekknod - Легит | Legit чит для Apex
+
+                <img alt="Ekknod - Легит | Legit чит для Apex" src="https://data.exloader.net/webp_images/EKKNOD/apex.webp">
+
+                Крайне безопасная OpenSource External модификация, не понижающая траст-фактор. Включает в себя волхак, триггер-бот и аим-бот.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

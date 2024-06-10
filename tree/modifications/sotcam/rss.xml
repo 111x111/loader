@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SotCam - Чит для Sea of Thieves</title>
+
+        <link>https://exloader.net/tree/modifications/sotcam/</link>
+        <atom:link href="https://exloader.net/tree/modifications/sotcam/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Необычная модификация, позволяющая менять углы обзора или fov и ощущать игру по-другому.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Sun, 03 Mar 2024 20:26:25 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                SotCam - Чит для Sea of Thieves
+
+                <img alt="SotCam - Чит для Sea of Thieves" src="https://data.exloader.net/webp_images/SotCam/esp.webp">
+
+                Необычная модификация, позволяющая менять углы обзора или fov и ощущать игру по-другому.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

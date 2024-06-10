@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>BleachHack - Чит для Minecraft</title>
+
+        <link>https://exloader.net/tree/modifications/bleachhack/</link>
+        <atom:link href="https://exloader.net/tree/modifications/bleachhack/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>BleachHack - это простой в использовании, бесплатный и открытый мод Fabric Utility Mod для Minecraft 1.17 и 1.18, предназначенный для анархических серверов. BleachHack поставляется с чистым графическим интерфейсом, множеством мощных и настраиваемых модулей и часто обновляется.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Mon, 15 Aug 2022 18:00:00 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                BleachHack - Чит для Minecraft
+
+                <img alt="BleachHack - Чит для Minecraft" src="https://data.exloader.net/webp_images/Bleach/header.webp">
+
+                BleachHack - это простой в использовании, бесплатный и открытый мод Fabric Utility Mod для Minecraft 1.17 и 1.18, предназначенный для анархических серверов. BleachHack поставляется с чистым графическим интерфейсом, множеством мощных и настраиваемых модулей и часто обновляется.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

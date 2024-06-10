@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Project Apparatus - Чит для Lethal Company</title>
+
+        <link>https://exloader.net/tree/modifications/project-apparatus/</link>
+        <atom:link href="https://exloader.net/tree/modifications/project-apparatus/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Project-Apparatus не является модом и поэтому НЕ совместим с BepInEx. Большое количество функций, регулярные обновления и многое другое!</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Fri, 22 Mar 2024 08:02:40 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Project Apparatus - Чит для Lethal Company
+
+                <img alt="Project Apparatus - Чит для Lethal Company" src="https://data.exloader.net/webp_images/ProjectApparatus/self.webp">
+
+                Project-Apparatus не является модом и поэтому НЕ совместим с BepInEx. Большое количество функций, регулярные обновления и многое другое!
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

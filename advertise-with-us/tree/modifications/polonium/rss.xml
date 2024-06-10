@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Polonium - Чит для Left 4 Dead 2</title>
+
+        <link>https://exloader.net/tree/modifications/polonium/</link>
+        <atom:link href="https://exloader.net/tree/modifications/polonium/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Модификация с крайне неудобным меню, управляемым стрелочками, однако, имеющая крайне обширный функционал.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Wed, 29 Nov 2023 16:39:53 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Polonium - Чит для Left 4 Dead 2
+
+                <img alt="Polonium - Чит для Left 4 Dead 2" src="https://data.exloader.net/webp_images/Polonium/esp.webp">
+
+                Модификация с крайне неудобным меню, управляемым стрелочками, однако, имеющая крайне обширный функционал.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

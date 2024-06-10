@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Читы для Genshin / Genshin Impact</title>
+
+        <link>https://exloader.net/tree/games/genshin/</link>
+        <atom:link href="https://exloader.net/tree/games/genshin/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Действие Genshin Impact происходит в фэнтезийном мире Тейват, который является домом для семи различных народов, каждый из которых связан с отдельной стихией и управляется отдельным богом, называемым во вселенной игры «Архонт». Сюжет рассказывает о герое по имени Путешественник, который странствует по бесчисленным мирам со своим братом или же сестрой-близнецом (в зависимости от того, кого игрок выберет в начале игры), прежде чем разлучиться в Тейвате. Вместе со своей спутницей-компаньоном Паймон Путешественник отправляется на поиски своего потерянного близнеца, одновременно участвуя в делах народов Тейвата.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Mon, 29 Apr 2024 22:00:04 +0000</pubDate>
+
+        
+        <item>
+            <title>Minty - Cheat Чит на Genshin</title>
+            <guid isPermaLink="true">https://exloader.net/tree/modifications/minty/</guid>
+            <link>https://exloader.net/tree/modifications/minty/</link>
+            <description>Модификация, написанная на основе исходников популярного мода Akebi. Имеет немного другое меню, однако, практически полностью повторяет её функционал. Немного сложна в управлении!</description>
+            
+            <content:encoded>
+                <![CDATA[
+                    Minty - Cheat Чит на Genshin
+        
+                    <img alt="Minty" src="https://data.exloader.net/webp_images/Minty/visuals.webp">
+        
+                    Модификация, написанная на основе исходников популярного мода Akebi. Имеет немного другое меню, однако, практически полностью повторяет её функционал. Немного сложна в управлении!
+                ]]>
+            </content:encoded>
+            
+            <category>Genshin / Genshin Impact}</category>
+        </item>
+
+        <item>
+            <title>Korepi - Cheat Чит для Genshin Impact</title>
+            <guid isPermaLink="true">https://exloader.net/tree/modifications/korepi/</guid>
+            <link>https://exloader.net/tree/modifications/korepi/</link>
+            <description>Одна из самых первых бесплатных и общедоступных модификаций для игры Genshin Impact. Ранее имела название Akebi/Akrepi, позже была несколько раз переименована, так как перешла под контроль других разработчиков.</description>
+            
+            <content:encoded>
+                <![CDATA[
+                    Korepi - Cheat Чит для Genshin Impact
+        
+                    <img alt="Korepi" src="https://data.exloader.net/webp_images/Korepi/settings.webp">
+        
+                    Одна из самых первых бесплатных и общедоступных модификаций для игры Genshin Impact. Ранее имела название Akebi/Akrepi, позже была несколько раз переименована, так как перешла под контроль других разработчиков.
+                ]]>
+            </content:encoded>
+            
+            <category>Genshin / Genshin Impact}</category>
+        </item>
+
+        <item>
+            <title>EpicGlobal - Cheat Чит на Genshin</title>
+            <guid isPermaLink="true">https://exloader.net/tree/modifications/epicglobal/</guid>
+            <link>https://exloader.net/tree/modifications/epicglobal/</link>
+            <description>После открытия консоли запуска модификации Вам необходимо нажимать Enter внутри неё для инъекции модификации.</description>
+            
+            <content:encoded>
+                <![CDATA[
+                    EpicGlobal - Cheat Чит на Genshin
+        
+                    <img alt="EpicGlobal" src="https://data.exloader.net/webp_images/EpicGlobal/attack_edited.webp">
+        
+                    После открытия консоли запуска модификации Вам необходимо нажимать Enter внутри неё для инъекции модификации.
+                ]]>
+            </content:encoded>
+            
+            <category>Genshin / Genshin Impact}</category>
+        </item>
+
+        <item>
+            <title>CottonBuds - Legit Легит | Legit чит для Genshin Impact</title>
+            <guid isPermaLink="true">https://exloader.net/tree/modifications/cottonbuds/</guid>
+            <link>https://exloader.net/tree/modifications/cottonbuds/</link>
+            <description>После запуска модификации укажи путь к файлу игры «Genshin Impact game\GenshinImpact.exe», дождись появления меню модификации, нажми на кнопку «Attach», выбери процесс «GenshinImpact.exe» и кликни по кнопке «Select». После этого модификация будет полностью запущена!</description>
+            
+            <content:encoded>
+                <![CDATA[
+                    CottonBuds - Legit Легит | Legit чит для Genshin Impact
+        
+                    <img alt="CottonBuds" src="https://data.exloader.net/webp_images/CottonBuds/esp.webp">
+        
+                    После запуска модификации укажи путь к файлу игры «Genshin Impact game\GenshinImpact.exe», дождись появления меню модификации, нажми на кнопку «Attach», выбери процесс «GenshinImpact.exe» и кликни по кнопке «Select». После этого модификация будет полностью запущена!
+                ]]>
+            </content:encoded>
+            
+            <category>Genshin / Genshin Impact}</category>
+        </item>
+
+    </channel>
+</rss>

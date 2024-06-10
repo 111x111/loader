@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Aimmy - Чит-Нейросеть | Бот для Apex</title>
+
+        <link>https://exloader.net/tree/modifications/aimmy_apex/</link>
+        <atom:link href="https://exloader.net/tree/modifications/aimmy_apex/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Нейросеть для аима под огромное количество игр. Крайне сложна в настройке, однако, безопасна для использования.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Mon, 01 Jan 2024 20:25:45 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Aimmy - Чит-Нейросеть | Бот для Apex
+
+                <img alt="Aimmy - Чит-Нейросеть | Бот для Apex" src="https://data.exloader.net/webp_images/Aimmy/rust.webp">
+
+                Нейросеть для аима под огромное количество игр. Крайне сложна в настройке, однако, безопасна для использования.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>LethalMenu - Чит для Lethal Company</title>
+
+        <link>https://exloader.net/tree/modifications/lethalmenu/</link>
+        <atom:link href="https://exloader.net/tree/modifications/lethalmenu/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Самая большая и многофункциональная модификация под Lethal company, сложна в настройке, однако, позволяет делать всё, что только может взбрести в твою голову!</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Sun, 28 Jan 2024 15:31:03 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                LethalMenu - Чит для Lethal Company
+
+                <img alt="LethalMenu - Чит для Lethal Company" src="https://data.exloader.net/webp_images/LethalMenu/visuals.webp">
+
+                Самая большая и многофункциональная модификация под Lethal company, сложна в настройке, однако, позволяет делать всё, что только может взбрести в твою голову!
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

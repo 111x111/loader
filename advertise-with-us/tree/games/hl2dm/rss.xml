@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Читы для HL2: Deathmatch / Half-Life 2: Deathmatch</title>
+
+        <link>https://exloader.net/tree/games/hl2dm/</link>
+        <atom:link href="https://exloader.net/tree/games/hl2dm/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Скоростной мультиплеерный экшен в сеттинге вселенной Half-Life 2! Физика HL2 придает геймплею дефматчей новое измерение. Сыграйте обычный дефматч или попробуйте командную игру Combine vs. Resistance. Запустите унитазом в вашего друга сегодня!</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Mon, 29 Apr 2024 22:00:04 +0000</pubDate>
+
+        
+        <item>
+            <title>Cranium HL2 - Cheat Чит для Half-Life 2: Deathmatch</title>
+            <guid isPermaLink="true">https://exloader.net/tree/modifications/cranium-hl2/</guid>
+            <link>https://exloader.net/tree/modifications/cranium-hl2/</link>
+            <description>Хороший мод с красивым меню, созданный популярным разработчиком-стримером Urbanichka, прост в настройке.</description>
+            
+            <content:encoded>
+                <![CDATA[
+                    Cranium HL2 - Cheat Чит для Half-Life 2: Deathmatch
+        
+                    <img alt="Cranium HL2" src="https://data.exloader.net/webp_images/Cranium%20HL2DM/gameplay.webp">
+        
+                    Хороший мод с красивым меню, созданный популярным разработчиком-стримером Urbanichka, прост в настройке.
+                ]]>
+            </content:encoded>
+            
+            <category>HL2: Deathmatch / Half-Life 2: Deathmatch}</category>
+        </item>
+
+        <item>
+            <title>Lak3DM - Cheat Чит на HL2: Deathmatch</title>
+            <guid isPermaLink="true">https://exloader.net/tree/modifications/lak3dm/</guid>
+            <link>https://exloader.net/tree/modifications/lak3dm/</link>
+            <description>Просто хорошая модификация с огромным количеством функций, позволяющих играть в любом стиле и на любом сервере!</description>
+            
+            <content:encoded>
+                <![CDATA[
+                    Lak3DM - Cheat Чит на HL2: Deathmatch
+        
+                    <img alt="Lak3DM" src="https://data.exloader.net/webp_images/Lak3DM/esp.webp">
+        
+                    Просто хорошая модификация с огромным количеством функций, позволяющих играть в любом стиле и на любом сервере!
+                ]]>
+            </content:encoded>
+            
+            <category>HL2: Deathmatch / Half-Life 2: Deathmatch}</category>
+        </item>
+
+    </channel>
+</rss>

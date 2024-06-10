@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>FluidAim - Чит для CS:GO</title>
+
+        <link>https://exloader.net/tree/modifications/fluidaim/</link>
+        <atom:link href="https://exloader.net/tree/modifications/fluidaim/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Крутое дополнение для игры в легитном режиме на официальных серварах CS:GO. Выделяется плавным аимботом, за которой тяжело получить бан от патруля!</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Sun, 20 Feb 2022 07:55:57 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                FluidAim - Чит для CS:GO
+
+                <img alt="FluidAim - Чит для CS:GO" src="https://data.exloader.net/webp_images/FluidAim/aim_edited.webp">
+
+                Крутое дополнение для игры в легитном режиме на официальных серварах CS:GO. Выделяется плавным аимботом, за которой тяжело получить бан от патруля!
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

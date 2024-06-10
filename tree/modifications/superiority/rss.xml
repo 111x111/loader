@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Superiority - Чит для Rust Pirate</title>
+
+        <link>https://exloader.net/tree/modifications/superiority/</link>
+        <atom:link href="https://exloader.net/tree/modifications/superiority/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Мод с большим функционалом и возможностью сохранять свои конфиги, подходит для игры в любом стиле, немного сложен в настройке.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Fri, 05 Jan 2024 11:39:03 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Superiority - Чит для Rust Pirate
+
+                <img alt="Superiority - Чит для Rust Pirate" src="https://data.exloader.net/webp_images/Superiority/visuals.webp">
+
+                Мод с большим функционалом и возможностью сохранять свои конфиги, подходит для игры в любом стиле, немного сложен в настройке.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

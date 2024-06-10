@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Aristois - Чит для Minecraft</title>
+
+        <link>https://exloader.net/tree/modifications/aristois/</link>
+        <atom:link href="https://exloader.net/tree/modifications/aristois/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Aristois предлагает более 100 внутриигровых модулей для расширения и улучшения игрового процесса в Minecraft. С упором на PvE, мы предлагаем современный и персонализированный опыт - получите его сегодня!</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Thu, 29 Sep 2022 16:00:00 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Aristois - Чит для Minecraft
+
+                <img alt="Aristois - Чит для Minecraft" src="https://data.exloader.net/webp_images/Aristois/features.webp">
+
+                Aristois предлагает более 100 внутриигровых модулей для расширения и улучшения игрового процесса в Minecraft. С упором на PvE, мы предлагаем современный и персонализированный опыт - получите его сегодня!
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

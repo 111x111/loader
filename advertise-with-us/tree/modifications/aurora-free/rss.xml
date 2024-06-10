@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Aurora Free - Чит для CS:GO</title>
+
+        <link>https://exloader.net/tree/modifications/aurora-free/</link>
+        <atom:link href="https://exloader.net/tree/modifications/aurora-free/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Модификация от создателей платной модификации Aurora. Выделяется наличием русского языка в меню и красивым уникальным меню!</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Mon, 31 Oct 2022 18:00:00 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Aurora Free - Чит для CS:GO
+
+                <img alt="Aurora Free - Чит для CS:GO" src="https://data.exloader.net/webp_images/Aurora%20Free/visuals_edited.webp">
+
+                Модификация от создателей платной модификации Aurora. Выделяется наличием русского языка в меню и красивым уникальным меню!
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

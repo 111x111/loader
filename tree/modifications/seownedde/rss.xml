@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SEOwnedDE - ВХ | WH | Волхак для TF2</title>
+
+        <link>https://exloader.net/tree/modifications/seownedde/</link>
+        <atom:link href="https://exloader.net/tree/modifications/seownedde/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Продвинутая версия модификации SEOwned, разработанная теми же разработчиками, что и оригинальный мод. Часть функционала может быть неработоспособным в связи с отсутствием обновлений на протяжении долгого времени!</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Thu, 20 Jul 2023 06:07:52 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                SEOwnedDE - ВХ | WH | Волхак для TF2
+
+                <img alt="SEOwnedDE - ВХ | WH | Волхак для TF2" src="https://data.exloader.net/webp_images/SeownedDE/visuals.webp">
+
+                Продвинутая версия модификации SEOwned, разработанная теми же разработчиками, что и оригинальный мод. Часть функционала может быть неработоспособным в связи с отсутствием обновлений на протяжении долгого времени!
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

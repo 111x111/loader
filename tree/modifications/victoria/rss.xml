@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Victoria - Чит для CS 2</title>
+
+        <link>https://exloader.net/tree/modifications/victoria/</link>
+        <atom:link href="https://exloader.net/tree/modifications/victoria/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Безопасное дополнение, расширяющее игровые возможности и автоматизирующее фарм опыта, и предметов.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Wed, 31 Jan 2024 09:43:24 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Victoria - Чит для CS 2
+
+                <img alt="Victoria - Чит для CS 2" src="https://data.exloader.net/webp_images/Victoria/misc.webp">
+
+                Безопасное дополнение, расширяющее игровые возможности и автоматизирующее фарм опыта, и предметов.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

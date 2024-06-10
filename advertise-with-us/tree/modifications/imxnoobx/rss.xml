@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>IMXNOOBX - ВХ | WH | Волхак для CS 2</title>
+
+        <link>https://exloader.net/tree/modifications/imxnoobx/</link>
+        <atom:link href="https://exloader.net/tree/modifications/imxnoobx/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Самая первая External модификация для Counter Strike 2. Работает как внешний процесс, практически незаметна для античита и не понижает траст-фактор!</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Fri, 08 Sep 2023 10:24:05 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                IMXNOOBX - ВХ | WH | Волхак для CS 2
+
+                <img alt="IMXNOOBX - ВХ | WH | Волхак для CS 2" src="https://data.exloader.net/webp_images/IMXNOOBX/loader.webp">
+
+                Самая первая External модификация для Counter Strike 2. Работает как внешний процесс, практически незаметна для античита и не понижает траст-фактор!
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

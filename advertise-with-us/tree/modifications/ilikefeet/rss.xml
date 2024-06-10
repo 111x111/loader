@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>ILikeFeet - Чит для CS:GO</title>
+
+        <link>https://exloader.net/tree/modifications/ilikefeet/</link>
+        <atom:link href="https://exloader.net/tree/modifications/ilikefeet/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>iLikeFeet - Это бесплатная легитная модификация для кс го. В данном моде огромное количество различных функций, которые помогут с легкостью одолеть любого противника в ММ или на пабликах.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Sat, 29 Apr 2023 12:51:23 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                ILikeFeet - Чит для CS:GO
+
+                <img alt="ILikeFeet - Чит для CS:GO" src="https://data.exloader.net/webp_images/ILikeFeet/other.webp">
+
+                iLikeFeet - Это бесплатная легитная модификация для кс го. В данном моде огромное количество различных функций, которые помогут с легкостью одолеть любого противника в ММ или на пабликах.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

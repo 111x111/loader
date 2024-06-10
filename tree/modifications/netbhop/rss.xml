@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>NetBhop - Баннихоп | Бхоп | Bunnyhop для CS:GO</title>
+
+        <link>https://exloader.net/tree/modifications/netbhop/</link>
+        <atom:link href="https://exloader.net/tree/modifications/netbhop/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Обыкновенный банни-хоп, имеющий лишь одну функцию. Не понижает траст-фактор, не помогает со стрейфами!</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Sun, 19 Sep 2021 20:10:44 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                NetBhop - Баннихоп | Бхоп | Bunnyhop для CS:GO
+
+                <img alt="NetBhop - Баннихоп | Бхоп | Bunnyhop для CS:GO" src="https://data.exloader.net/webp_images/NetBhop/menu_edited.webp">
+
+                Обыкновенный банни-хоп, имеющий лишь одну функцию. Не понижает траст-фактор, не помогает со стрейфами!
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

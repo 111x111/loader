@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>BaffClient - Рейдж | Rage чит для Rust Pirate</title>
+
+        <link>https://exloader.net/tree/modifications/baffclient/</link>
+        <atom:link href="https://exloader.net/tree/modifications/baffclient/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Отличная модификация, которая подходит как для Legit, так и для Rage стилей игры! Присутствует функция Unload для прохождения проверок на серверах на наличие модов!</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Wed, 10 Apr 2024 07:06:50 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                BaffClient - Рейдж | Rage чит для Rust Pirate
+
+                <img alt="BaffClient - Рейдж | Rage чит для Rust Pirate" src="https://data.exloader.net/webp_images/BaffClient/misc.webp">
+
+                Отличная модификация, которая подходит как для Legit, так и для Rage стилей игры! Присутствует функция Unload для прохождения проверок на серверах на наличие модов!
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

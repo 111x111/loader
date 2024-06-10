@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Dast.TT - Чит для Rust Pirate</title>
+
+        <link>https://exloader.net/tree/modifications/dast-tt/</link>
+        <atom:link href="https://exloader.net/tree/modifications/dast-tt/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Просто обычная посредственная модификация для легит игры в Rust! Ничего сверхестественного, имеет некоторые недостатки в виде багов, но играть можно.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Mon, 15 Apr 2024 11:45:03 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Dast.TT - Чит для Rust Pirate
+
+                <img alt="Dast.TT - Чит для Rust Pirate" src="https://data.exloader.net/webp_images/Dast.TT/combat.webp">
+
+                Просто обычная посредственная модификация для легит игры в Rust! Ничего сверхестественного, имеет некоторые недостатки в виде багов, но играть можно.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

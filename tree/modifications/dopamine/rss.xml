@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Dopamine - Чит для CS 1.6</title>
+
+        <link>https://exloader.net/tree/modifications/dopamine/</link>
+        <atom:link href="https://exloader.net/tree/modifications/dopamine/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Легитная модификация для CS 1.6, предназначена для беспалевной игры на пабликах, удобна в настройке.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Mon, 10 May 2021 10:06:41 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Dopamine - Чит для CS 1.6
+
+                <img alt="Dopamine - Чит для CS 1.6" src="https://data.exloader.net/webp_images/Dopamine/legit.webp">
+
+                Легитная модификация для CS 1.6, предназначена для беспалевной игры на пабликах, удобна в настройке.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

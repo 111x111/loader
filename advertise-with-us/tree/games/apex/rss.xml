@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Читы для Apex / Apex Legends</title>
+
+        <link>https://exloader.net/tree/games/apex/</link>
+        <atom:link href="https://exloader.net/tree/games/apex/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Apex Legends — компьютерная игра в жанре многопользовательского геройского шутера от первого лица и королевской битвы, разработанная американской студией Respawn Entertainment и выпущенная компанией Electronic Arts для платформ Windows, PlayStation 4 и Xbox One 4 февраля 2019 году. Действие Apex Legends происходит в той же самой вселенной, что и действие игр Titanfall и Titanfall 2; игра заимствует некоторые элементы игровой механики из Titanfall 2.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Mon, 29 Apr 2024 22:00:04 +0000</pubDate>
+
+        
+        <item>
+            <title>Ekknod - Legit Легит | Legit чит на Apex</title>
+            <guid isPermaLink="true">https://exloader.net/tree/modifications/ekknod_apex/</guid>
+            <link>https://exloader.net/tree/modifications/ekknod_apex/</link>
+            <description>Крайне безопасная OpenSource External модификация, не понижающая траст-фактор. Включает в себя волхак, триггер-бот и аим-бот.</description>
+            
+            <content:encoded>
+                <![CDATA[
+                    Ekknod - Legit Легит | Legit чит на Apex
+        
+                    <img alt="Ekknod" src="https://data.exloader.net/webp_images/EKKNOD/EKKNOD.webp">
+        
+                    Крайне безопасная OpenSource External модификация, не понижающая траст-фактор. Включает в себя волхак, триггер-бот и аим-бот.
+                ]]>
+            </content:encoded>
+            
+            <category>Apex / Apex Legends}</category>
+        </item>
+
+        <item>
+            <title>Aimmy - Neuronet Чит-Нейросеть | Бот на Apex</title>
+            <guid isPermaLink="true">https://exloader.net/tree/modifications/aimmy_apex/</guid>
+            <link>https://exloader.net/tree/modifications/aimmy_apex/</link>
+            <description>Нейросеть для аима под огромное количество игр. Крайне сложна в настройке, однако, безопасна для использования.</description>
+            
+            <content:encoded>
+                <![CDATA[
+                    Aimmy - Neuronet Чит-Нейросеть | Бот на Apex
+        
+                    <img alt="Aimmy" src="https://data.exloader.net/webp_images/Aimmy/cs2.webp">
+        
+                    Нейросеть для аима под огромное количество игр. Крайне сложна в настройке, однако, безопасна для использования.
+                ]]>
+            </content:encoded>
+            
+            <category>Apex / Apex Legends}</category>
+        </item>
+
+    </channel>
+</rss>

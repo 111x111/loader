@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>HPP v4 - Чит для CS 1.6</title>
+
+        <link>https://exloader.net/tree/modifications/hpp-v4/</link>
+        <atom:link href="https://exloader.net/tree/modifications/hpp-v4/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Ранняя версия самой популярной модификации для CS 1.6 HPP v6, обладает отличным функционалом, однако, имеет недоработанное меню! Подходит для игры на пиратках.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Tue, 27 Feb 2018 14:00:02 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                HPP v4 - Чит для CS 1.6
+
+                <img alt="HPP v4 - Чит для CS 1.6" src="https://data.exloader.net/webp_images/Hpp4/gameplay_edited.webp">
+
+                Ранняя версия самой популярной модификации для CS 1.6 HPP v6, обладает отличным функционалом, однако, имеет недоработанное меню! Подходит для игры на пиратках.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SEOwned - Чит для TF2</title>
+
+        <link>https://exloader.net/tree/modifications/seowned/</link>
+        <atom:link href="https://exloader.net/tree/modifications/seowned/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Интересная модификация, обладающая обильным количеством функций, позволяющих играть в любом удобном для вас стиле.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Tue, 30 Aug 2022 11:00:00 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                SEOwned - Чит для TF2
+
+                <img alt="SEOwned - Чит для TF2" src="https://data.exloader.net/webp_images/SEOwned/aim_edited.webp">
+
+                Интересная модификация, обладающая обильным количеством функций, позволяющих играть в любом удобном для вас стиле.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

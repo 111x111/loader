@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>LiquidBounce - Чит для Minecraft</title>
+
+        <link>https://exloader.net/tree/modifications/liquidbounce/</link>
+        <atom:link href="https://exloader.net/tree/modifications/liquidbounce/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>LiquidBounce - это так называемый мод-клиент для игры Minecraft. Использование такого клиента дает вам значительные преимущества над другими игроками. В отличие от большинства альтернатив, LiquidBounce полностью бесплатен, имеет открытый исходный код и совместим с Forge.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Thu, 22 Sep 2022 22:00:00 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                LiquidBounce - Чит для Minecraft
+
+                <img alt="LiquidBounce - Чит для Minecraft" src="https://data.exloader.net/webp_images/LiquidBounce/header.webp">
+
+                LiquidBounce - это так называемый мод-клиент для игры Minecraft. Использование такого клиента дает вам значительные преимущества над другими игроками. В отличие от большинства альтернатив, LiquidBounce полностью бесплатен, имеет открытый исходный код и совместим с Forge.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

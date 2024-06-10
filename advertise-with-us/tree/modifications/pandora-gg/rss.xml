@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Pandora.gg - Чит для CS:GO</title>
+
+        <link>https://exloader.net/tree/modifications/pandora-gg/</link>
+        <atom:link href="https://exloader.net/tree/modifications/pandora-gg/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Популярная платная модифакация, имеющая систему инвайтов, однако, слитая в сеть. Выделяется наличием системы ЛУА-скриптов и меню с неплохими анимациями!</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Sat, 26 Nov 2022 21:00:01 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Pandora.gg - Чит для CS:GO
+
+                <img alt="Pandora.gg - Чит для CS:GO" src="https://data.exloader.net/webp_images/Pandora/visuals_edited.webp">
+
+                Популярная платная модифакация, имеющая систему инвайтов, однако, слитая в сеть. Выделяется наличием системы ЛУА-скриптов и меню с неплохими анимациями!
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

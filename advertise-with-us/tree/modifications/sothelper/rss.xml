@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SOTHelper - Чит для Sea of Thieves</title>
+
+        <link>https://exloader.net/tree/modifications/sothelper/</link>
+        <atom:link href="https://exloader.net/tree/modifications/sothelper/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>External модификация, которая не внедряется в игру и работает как вшений процесс. Гигантский мод, имеющий возможность ручных обновлений под каждый апдейт игры, включает в себя большое количество функций для максимально комфортной игры.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Sun, 03 Dec 2023 12:59:19 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                SOTHelper - Чит для Sea of Thieves
+
+                <img alt="SOTHelper - Чит для Sea of Thieves" src="https://data.exloader.net/webp_images/SOTHelper/map.webp">
+
+                External модификация, которая не внедряется в игру и работает как вшений процесс. Гигантский мод, имеющий возможность ручных обновлений под каждый апдейт игры, включает в себя большое количество функций для максимально комфортной игры.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

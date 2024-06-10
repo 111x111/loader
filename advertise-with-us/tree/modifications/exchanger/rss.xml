@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>ExChanger - Скинченджер | SkinChanger для CS:GO</title>
+
+        <link>https://exloader.net/tree/modifications/exchanger/</link>
+        <atom:link href="https://exloader.net/tree/modifications/exchanger/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Модификация, которая не внедряется в игру в виде DLL, а работает как сторонний процесс, тем самым понижая шансы на получение VAC бана, а так-же защищая от падения траст фактора.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Tue, 25 Apr 2023 11:11:05 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                ExChanger - Скинченджер | SkinChanger для CS:GO
+
+                <img alt="ExChanger - Скинченджер | SkinChanger для CS:GO" src="https://data.exloader.net/webp_images/ExChanger/usp.webp">
+
+                Модификация, которая не внедряется в игру в виде DLL, а работает как сторонний процесс, тем самым понижая шансы на получение VAC бана, а так-же защищая от падения траст фактора.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

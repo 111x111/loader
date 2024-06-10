@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Читы для GTA V / Grand Theft Auto V</title>
+
+        <link>https://exloader.net/tree/games/gta5/</link>
+        <atom:link href="https://exloader.net/tree/games/gta5/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Действие игры происходит в вымышленном штате Сан-Андреас, прообразом которого послужила Южная Калифорния. Сюжет в однопользовательском режиме строится вокруг приключений троих грабителей, устраивающих всё более дерзкие ограбления и противостоящих как организованной преступности, так и правоохранительным ведомствам. В процессе игры игрок управляет выбранным персонажем в режиме от первого или от третьего лица; персонаж может свободно передвигаться по обширному миру игры как пешком, так и на автомобилях и других видах транспорта. Особенностью Grand Theft Auto V по сравнению с другими играми серии является возможность переключаться между персонажами в любой момент, как во время выполнения заданий, так и вне их. Многие задания игры связаны с ограблениями и угоном автомобилей; при этом игровой персонаж может участвовать в перестрелках и погонях. Grand Theft Auto Online представляет собой встроенный многопользовательский онлайн-режим, поддерживающий до 30 игроков одновременно — для них предлагаются как кооперативные, так и соревновательные задания.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Mon, 29 Apr 2024 22:00:04 +0000</pubDate>
+
+        
+        <item>
+            <title>ModestMenu - ModMenu Модменю | ModMenu на GTA V</title>
+            <guid isPermaLink="true">https://exloader.net/tree/modifications/modestmenu/</guid>
+            <link>https://exloader.net/tree/modifications/modestmenu/</link>
+            <description>Самый популярный External мод, обладающий хорошей защитой от бана. Работает как внешний процесс, имеет крайне неудобную систему настройки и навигации внутри меню!</description>
+            
+            <content:encoded>
+                <![CDATA[
+                    ModestMenu - ModMenu Модменю | ModMenu на GTA V
+        
+                    <img alt="ModestMenu" src="https://data.exloader.net/webp_images/Modest/black.webp">
+        
+                    Самый популярный External мод, обладающий хорошей защитой от бана. Работает как внешний процесс, имеет крайне неудобную систему настройки и навигации внутри меню!
+                ]]>
+            </content:encoded>
+            
+            <category>GTA V / Grand Theft Auto V}</category>
+        </item>
+
+        <item>
+            <title>N3NY000 Menu - Cheat Чит для Grand Theft Auto V</title>
+            <guid isPermaLink="true">https://exloader.net/tree/modifications/n3ny000-menu/</guid>
+            <link>https://exloader.net/tree/modifications/n3ny000-menu/</link>
+            <description>Обширный мод, позволяющий вытворять всё, что только может прийти в голову. Имеет красивое меню и долгую историю обновлений!</description>
+            
+            <content:encoded>
+                <![CDATA[
+                    N3NY000 Menu - Cheat Чит для Grand Theft Auto V
+        
+                    <img alt="N3NY000 Menu" src="https://data.exloader.net/webp_images/N3NY000/installer.webp">
+        
+                    Обширный мод, позволяющий вытворять всё, что только может прийти в голову. Имеет красивое меню и долгую историю обновлений!
+                ]]>
+            </content:encoded>
+            
+            <category>GTA V / Grand Theft Auto V}</category>
+        </item>
+
+        <item>
+            <title>YimMenu - Cheat Чит на GTA V</title>
+            <guid isPermaLink="true">https://exloader.net/tree/modifications/yimmenu/</guid>
+            <link>https://exloader.net/tree/modifications/yimmenu/</link>
+            <description>Мод-база для Grand Theft Auto V. Создана строго для образовательных целей. YimMenu изначально основан на BigBaseV2, который был удивительным модом для своего времени.</description>
+            
+            <content:encoded>
+                <![CDATA[
+                    YimMenu - Cheat Чит на GTA V
+        
+                    <img alt="YimMenu" src="https://data.exloader.net/webp_images/YimMenu/self.webp">
+        
+                    Мод-база для Grand Theft Auto V. Создана строго для образовательных целей. YimMenu изначально основан на BigBaseV2, который был удивительным модом для своего времени.
+                ]]>
+            </content:encoded>
+            
+            <category>GTA V / Grand Theft Auto V}</category>
+        </item>
+
+        <item>
+            <title>HeistEditor - Cheat Чит для Grand Theft Auto V</title>
+            <guid isPermaLink="true">https://exloader.net/tree/modifications/heisteditor/</guid>
+            <link>https://exloader.net/tree/modifications/heisteditor/</link>
+            <description>External модификация, которая не внедряется в игру, а работает как внешний процесс, имеет гигантское количество функций, крайне сложна в настройке, однако, хорошо оптимизированна и крайне безопасна.</description>
+            
+            <content:encoded>
+                <![CDATA[
+                    HeistEditor - Cheat Чит для Grand Theft Auto V
+        
+                    <img alt="HeistEditor" src="https://data.exloader.net/webp_images/Heist%20Editor/aparts.webp">
+        
+                    External модификация, которая не внедряется в игру, а работает как внешний процесс, имеет гигантское количество функций, крайне сложна в настройке, однако, хорошо оптимизированна и крайне безопасна.
+                ]]>
+            </content:encoded>
+            
+            <category>GTA V / Grand Theft Auto V}</category>
+        </item>
+
+    </channel>
+</rss>

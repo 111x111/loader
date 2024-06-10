@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Ateris - Чит для TF2</title>
+
+        <link>https://exloader.net/tree/modifications/ateris/</link>
+        <atom:link href="https://exloader.net/tree/modifications/ateris/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Модификация от разработчиков cleric и mad?, имеющая невероятно гигантский функционал, подходит для игры на любом сервере и в любом режиме.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Mon, 04 Dec 2023 09:23:18 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Ateris - Чит для TF2
+
+                <img alt="Ateris - Чит для TF2" src="https://data.exloader.net/webp_images/Ateris/misc.webp">
+
+                Модификация от разработчиков cleric и mad?, имеющая невероятно гигантский функционал, подходит для игры на любом сервере и в любом режиме.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Zenox - Чит для CS:GO</title>
+
+        <link>https://exloader.net/tree/modifications/zenox/</link>
+        <atom:link href="https://exloader.net/tree/modifications/zenox/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Модификация с крутым меню, позволяющим быстро и удобно подстроить её под свой стиль игры. Плохо оптимизирована под работу на старых системах!</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Tue, 07 Feb 2023 19:00:01 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Zenox - Чит для CS:GO
+
+                <img alt="Zenox - Чит для CS:GO" src="https://data.exloader.net/webp_images/Zenox/other_edited.webp">
+
+                Модификация с крутым меню, позволяющим быстро и удобно подстроить её под свой стиль игры. Плохо оптимизирована под работу на старых системах!
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>ThunderHack - Чит для Minecraft</title>
+
+        <link>https://exloader.net/tree/modifications/thunderhack/</link>
+        <atom:link href="https://exloader.net/tree/modifications/thunderhack/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Хороший мод с ничем не выделяющимся меню. Обладает внушительным количеством функций и находится в стадии активной разработки (на момент 2024 года).</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Fri, 26 Jan 2024 14:11:13 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                ThunderHack - Чит для Minecraft
+
+                <img alt="ThunderHack - Чит для Minecraft" src="https://data.exloader.net/webp_images/ThunderHack/second.webp">
+
+                Хороший мод с ничем не выделяющимся меню. Обладает внушительным количеством функций и находится в стадии активной разработки (на момент 2024 года).
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Anubis - Модменю | ModMenu для Lethal Company</title>
+
+        <link>https://exloader.net/tree/modifications/anubis/</link>
+        <atom:link href="https://exloader.net/tree/modifications/anubis/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Большая модификация с внушительным количеством функций, включающая в себя как полезные фичи, так и троллинговый функционал. Удобна в настройке.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Sat, 16 Dec 2023 15:42:24 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Anubis - Модменю | ModMenu для Lethal Company
+
+                <img alt="Anubis - Модменю | ModMenu для Lethal Company" src="https://data.exloader.net/webp_images/Anubis/players.webp">
+
+                Большая модификация с внушительным количеством функций, включающая в себя как полезные фичи, так и троллинговый функционал. Удобна в настройке.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

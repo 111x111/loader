@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>NAIM Free - Чит-Нейросеть | Бот для CS 2</title>
+
+        <link>https://exloader.net/tree/modifications/naim-free/</link>
+        <atom:link href="https://exloader.net/tree/modifications/naim-free/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Нейросеть для аима, отличается хорошей оптимизацией, удобным меню и поддержой почти всех видеокарт!</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Tue, 02 Jan 2024 20:29:47 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                NAIM Free - Чит-Нейросеть | Бот для CS 2
+
+                <img alt="NAIM Free - Чит-Нейросеть | Бот для CS 2" src="https://data.exloader.net/webp_images/NAIM/cs2.webp">
+
+                Нейросеть для аима, отличается хорошей оптимизацией, удобным меню и поддержой почти всех видеокарт!
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

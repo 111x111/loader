@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>CottonBuds - Легит | Legit чит для Genshin</title>
+
+        <link>https://exloader.net/tree/modifications/cottonbuds/</link>
+        <atom:link href="https://exloader.net/tree/modifications/cottonbuds/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>После запуска модификации укажи путь к файлу игры «Genshin Impact game\GenshinImpact.exe», дождись появления меню модификации, нажми на кнопку «Attach», выбери процесс «GenshinImpact.exe» и кликни по кнопке «Select». После этого модификация будет полностью запущена!</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Tue, 07 Mar 2023 14:13:33 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                CottonBuds - Легит | Legit чит для Genshin
+
+                <img alt="CottonBuds - Легит | Legit чит для Genshin" src="https://data.exloader.net/webp_images/CottonBuds/attach.webp">
+
+                После запуска модификации укажи путь к файлу игры «Genshin Impact game\GenshinImpact.exe», дождись появления меню модификации, нажми на кнопку «Attach», выбери процесс «GenshinImpact.exe» и кликни по кнопке «Select». После этого модификация будет полностью запущена!
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

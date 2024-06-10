@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Читы для Among Us</title>
+
+        <link>https://exloader.net/tree/games/amongus/</link>
+        <atom:link href="https://exloader.net/tree/games/amongus/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Локальная и сетевая игра для компании от 4 до 15 игроков о командной работе и предательстве... в космосе!</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Mon, 29 Apr 2024 22:00:04 +0000</pubDate>
+
+        
+        <item>
+            <title>AmongUsCosmetics - InvChanger Интвентори чейнджер | InventoryChanger для Among Us</title>
+            <guid isPermaLink="true">https://exloader.net/tree/modifications/amonguscosmetics/</guid>
+            <link>https://exloader.net/tree/modifications/amonguscosmetics/</link>
+            <description>Модификация, которая полностью разблокирует все скины, сеты, питомцев и другие украшения в игре. Всё происходит автоматически, вручную ничего делать не требуется.</description>
+            
+            <content:encoded>
+                <![CDATA[
+                    AmongUsCosmetics - InvChanger Интвентори чейнджер | InventoryChanger для Among Us
+        
+                    <img alt="AmongUsCosmetics" src="https://data.exloader.net/webp_images/AmongUsCosmetics/hats.webp">
+        
+                    Модификация, которая полностью разблокирует все скины, сеты, питомцев и другие украшения в игре. Всё происходит автоматически, вручную ничего делать не требуется.
+                ]]>
+            </content:encoded>
+            
+            <category>Among Us}</category>
+        </item>
+
+        <item>
+            <title>AmongUsMenu - ModMenu Модменю | ModMenu на Among Us</title>
+            <guid isPermaLink="true">https://exloader.net/tree/modifications/amongusmenu/</guid>
+            <link>https://exloader.net/tree/modifications/amongusmenu/</link>
+            <description>Невероятно огромная модификация для AmongUs, позволяющая стать богом любого сервера, немного сложна в настройке.</description>
+            
+            <content:encoded>
+                <![CDATA[
+                    AmongUsMenu - ModMenu Модменю | ModMenu на Among Us
+        
+                    <img alt="AmongUsMenu" src="https://data.exloader.net/webp_images/AmongUsMenu/self.webp">
+        
+                    Невероятно огромная модификация для AmongUs, позволяющая стать богом любого сервера, немного сложна в настройке.
+                ]]>
+            </content:encoded>
+            
+            <category>Among Us}</category>
+        </item>
+
+        <item>
+            <title>Simple Mod - Cheat Чит для Among Us</title>
+            <guid isPermaLink="true">https://exloader.net/tree/modifications/simple-mod/</guid>
+            <link>https://exloader.net/tree/modifications/simple-mod/</link>
+            <description>Простая модификация, не имеющая менюшки, все функции включены по дефолту.</description>
+            
+            <content:encoded>
+                <![CDATA[
+                    Simple Mod - Cheat Чит для Among Us
+        
+                    <img alt="Simple Mod" src="https://data.exloader.net/webp_images/SimpleMod/menu.webp">
+        
+                    Простая модификация, не имеющая менюшки, все функции включены по дефолту.
+                ]]>
+            </content:encoded>
+            
+            <category>Among Us}</category>
+        </item>
+
+        <item>
+            <title>SuperDetective - Cheat Чит на Among Us</title>
+            <guid isPermaLink="true">https://exloader.net/tree/modifications/superdetective/</guid>
+            <link>https://exloader.net/tree/modifications/superdetective/</link>
+            <description>Модификация с красивым и удобным меню, и возможностью регулировки функционала. Проста в настройке. </description>
+            
+            <content:encoded>
+                <![CDATA[
+                    SuperDetective - Cheat Чит на Among Us
+        
+                    <img alt="SuperDetective" src="https://data.exloader.net/webp_images/SuperDetective/menu_modau.webp">
+        
+                    Модификация с красивым и удобным меню, и возможностью регулировки функционала. Проста в настройке. 
+                ]]>
+            </content:encoded>
+            
+            <category>Among Us}</category>
+        </item>
+
+    </channel>
+</rss>

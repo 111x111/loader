@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>N3NY000 Menu - Чит для GTA V</title>
+
+        <link>https://exloader.net/tree/modifications/n3ny000-menu/</link>
+        <atom:link href="https://exloader.net/tree/modifications/n3ny000-menu/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Обширный мод, позволяющий вытворять всё, что только может прийти в голову. Имеет красивое меню и долгую историю обновлений!</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Sat, 29 Oct 2022 18:00:01 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                N3NY000 Menu - Чит для GTA V
+
+                <img alt="N3NY000 Menu - Чит для GTA V" src="https://data.exloader.net/webp_images/N3NY000/gameplay.webp">
+
+                Обширный мод, позволяющий вытворять всё, что только может прийти в голову. Имеет красивое меню и долгую историю обновлений!
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

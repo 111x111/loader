@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Nixware - Чит для CS:GO</title>
+
+        <link>https://exloader.net/tree/modifications/nixware/</link>
+        <atom:link href="https://exloader.net/tree/modifications/nixware/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Кряк самого популярного мода для кс го в низком ценовом сегменте. Шикарно подходит для хвх игр, не понижает траст-фактор и хорошо защищён от системы VAC.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Mon, 25 Apr 2022 19:00:03 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Nixware - Чит для CS:GO
+
+                <img alt="Nixware - Чит для CS:GO" src="https://data.exloader.net/webp_images/Nixware/skins_edited.webp">
+
+                Кряк самого популярного мода для кс го в низком ценовом сегменте. Шикарно подходит для хвх игр, не понижает траст-фактор и хорошо защищён от системы VAC.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

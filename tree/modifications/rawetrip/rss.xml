@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>RaweTrip - Рейдж | Rage чит для CS:GO</title>
+
+        <link>https://exloader.net/tree/modifications/rawetrip/</link>
+        <atom:link href="https://exloader.net/tree/modifications/rawetrip/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Хороший мод для игры в хвх стиле, обладает уникальным меню, выделяется наличием системы ЛУА-скриптов и обильным количеством кфг.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Sat, 12 Nov 2022 08:00:00 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                RaweTrip - Рейдж | Rage чит для CS:GO
+
+                <img alt="RaweTrip - Рейдж | Rage чит для CS:GO" src="https://data.exloader.net/webp_images/Rawetrip/rage_edited.webp">
+
+                Хороший мод для игры в хвх стиле, обладает уникальным меню, выделяется наличием системы ЛУА-скриптов и обильным количеством кфг.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

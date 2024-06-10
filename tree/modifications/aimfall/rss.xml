@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Aimfall - Чит для CS:GO</title>
+
+        <link>https://exloader.net/tree/modifications/aimfall/</link>
+        <atom:link href="https://exloader.net/tree/modifications/aimfall/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Выделяется крайне своеобразным меню, которое сложно назвать красивым, однако, обладает Rage функционал для хвх игр!</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Sat, 07 Aug 2021 18:12:09 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Aimfall - Чит для CS:GO
+
+                <img alt="Aimfall - Чит для CS:GO" src="https://data.exloader.net/webp_images/Aimfall/skins_edited.webp">
+
+                Выделяется крайне своеобразным меню, которое сложно назвать красивым, однако, обладает Rage функционал для хвх игр!
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

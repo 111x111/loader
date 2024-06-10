@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Korepi - Чит для Genshin</title>
+
+        <link>https://exloader.net/tree/modifications/korepi/</link>
+        <atom:link href="https://exloader.net/tree/modifications/korepi/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Одна из самых первых бесплатных и общедоступных модификаций для игры Genshin Impact. Ранее имела название Akebi/Akrepi, позже была несколько раз переименована, так как перешла под контроль других разработчиков.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Thu, 09 Feb 2023 09:00:00 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Korepi - Чит для Genshin
+
+                <img alt="Korepi - Чит для Genshin" src="https://data.exloader.net/webp_images/Korepi/settings.webp">
+
+                Одна из самых первых бесплатных и общедоступных модификаций для игры Genshin Impact. Ранее имела название Akebi/Akrepi, позже была несколько раз переименована, так как перешла под контроль других разработчиков.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

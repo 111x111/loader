@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>W1nnerFree CS2 - Чит для CS 2</title>
+
+        <link>https://exloader.net/tree/modifications/w1nnerfree-cs2/</link>
+        <atom:link href="https://exloader.net/tree/modifications/w1nnerfree-cs2/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Первая драйверная модификация для CS2. Создана теми же авторами, что и крайне популярные моды D3M и Winner.pw. Включает в себя волхак, аимбот и помощника в раскидке гранат.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Sat, 07 Oct 2023 08:11:21 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                W1nnerFree CS2 - Чит для CS 2
+
+                <img alt="W1nnerFree CS2 - Чит для CS 2" src="https://data.exloader.net/webp_images/W1nnerCS2/aim.webp">
+
+                Первая драйверная модификация для CS2. Создана теми же авторами, что и крайне популярные моды D3M и Winner.pw. Включает в себя волхак, аимбот и помощника в раскидке гранат.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

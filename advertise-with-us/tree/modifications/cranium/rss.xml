@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cranium - Чит для Garry&apos;s Mod</title>
+
+        <link>https://exloader.net/tree/modifications/cranium/</link>
+        <atom:link href="https://exloader.net/tree/modifications/cranium/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Простая модификация для Garry&apos;s Mod с базовым меню и небольшим количеством функций. Имеет вкладку LUAs для пользовательских настроек, легко настраивается.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Tue, 01 Aug 2023 07:22:27 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Cranium - Чит для Garry&apos;s Mod
+
+                <img alt="Cranium - Чит для Garry&apos;s Mod" src="https://data.exloader.net/webp_images/Cranium/aim.webp">
+
+                Простая модификация для Garry&apos;s Mod с базовым меню и небольшим количеством функций. Имеет вкладку LUAs для пользовательских настроек, легко настраивается.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Corsair - Чит для CS:GO</title>
+
+        <link>https://exloader.net/tree/modifications/corsair/</link>
+        <atom:link href="https://exloader.net/tree/modifications/corsair/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Модификация от создателей средне-популярного англоязычного форума по модификациям к различным играм. Клон модификации Legendware.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Tue, 02 Nov 2021 17:02:39 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Corsair - Чит для CS:GO
+
+                <img alt="Corsair - Чит для CS:GO" src="https://data.exloader.net/webp_images/Corsair/skins_edited.webp">
+
+                Модификация от создателей средне-популярного англоязычного форума по модификациям к различным играм. Клон модификации Legendware.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

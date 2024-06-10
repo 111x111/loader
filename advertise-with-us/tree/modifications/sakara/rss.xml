@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Sakara - Чит для CS:GO</title>
+
+        <link>https://exloader.net/tree/modifications/sakara/</link>
+        <atom:link href="https://exloader.net/tree/modifications/sakara/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Бесплатная модификация с очень красивым меню и системами ЛУА-скрипов с помощником в раскидке гранат. Удобна в настройке, подходит для игры как в легит, так и в рейдж стиле!</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Thu, 01 Dec 2022 11:00:00 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Sakara - Чит для CS:GO
+
+                <img alt="Sakara - Чит для CS:GO" src="https://data.exloader.net/webp_images/Sakara/misc_edited.webp">
+
+                Бесплатная модификация с очень красивым меню и системами ЛУА-скрипов с помощником в раскидке гранат. Удобна в настройке, подходит для игры как в легит, так и в рейдж стиле!
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

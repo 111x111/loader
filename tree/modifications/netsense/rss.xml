@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>NetSense - Чит для CS:GO</title>
+
+        <link>https://exloader.net/tree/modifications/netsense/</link>
+        <atom:link href="https://exloader.net/tree/modifications/netsense/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Клон модификации Legendware, имеющий слегка измененный функционал. Ничего необычного.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Sun, 13 Feb 2022 13:46:19 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                NetSense - Чит для CS:GO
+
+                <img alt="NetSense - Чит для CS:GO" src="https://data.exloader.net/webp_images/NetSense/rage_edited.webp">
+
+                Клон модификации Legendware, имеющий слегка измененный функционал. Ничего необычного.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

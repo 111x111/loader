@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Wurst - Чит для Minecraft</title>
+
+        <link>https://exloader.net/tree/modifications/wurst/</link>
+        <atom:link href="https://exloader.net/tree/modifications/wurst/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Раскрой весь потенциал Minecraft с помощью клиента Wurst, содержащего более 200 читов, хаков, команд и полезных модов. Бесплатно и с открытым исходным кодом.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Tue, 04 Oct 2022 09:00:00 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Wurst - Чит для Minecraft
+
+                <img alt="Wurst - Чит для Minecraft" src="https://data.exloader.net/webp_images/Wurst/gameplay.webp">
+
+                Раскрой весь потенциал Minecraft с помощью клиента Wurst, содержащего более 200 читов, хаков, команд и полезных модов. Бесплатно и с открытым исходным кодом.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

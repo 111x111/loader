@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Aimware - Рейдж | Rage чит для CS:GO</title>
+
+        <link>https://exloader.net/tree/modifications/aimware/</link>
+        <atom:link href="https://exloader.net/tree/modifications/aimware/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Оригинальная версия самого известного платного мода для CS:GO, слитая собственным разработчиком, выделяется красивейшим меню, простотой в настройке и хорошей оптимизацией под работу на различных системах!</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Tue, 07 Feb 2023 10:00:05 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Aimware - Рейдж | Rage чит для CS:GO
+
+                <img alt="Aimware - Рейдж | Rage чит для CS:GO" src="https://data.exloader.net/webp_images/Aimware/rage.webp">
+
+                Оригинальная версия самого известного платного мода для CS:GO, слитая собственным разработчиком, выделяется красивейшим меню, простотой в настройке и хорошей оптимизацией под работу на различных системах!
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

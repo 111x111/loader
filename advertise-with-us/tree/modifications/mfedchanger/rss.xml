@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>MFEDChanger - Скинченджер | SkinChanger для TF2</title>
+
+        <link>https://exloader.net/tree/modifications/mfedchanger/</link>
+        <atom:link href="https://exloader.net/tree/modifications/mfedchanger/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Простой и рабочий скин-чейнджер, позволяющий изменять скины оружия, визуальные эффекты и прочие штучки. Удобен в настройке.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Fri, 20 Oct 2023 17:37:06 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                MFEDChanger - Скинченджер | SkinChanger для TF2
+
+                <img alt="MFEDChanger - Скинченджер | SkinChanger для TF2" src="https://data.exloader.net/webp_images/MFEDChanger/weapon.webp">
+
+                Простой и рабочий скин-чейнджер, позволяющий изменять скины оружия, визуальные эффекты и прочие штучки. Удобен в настройке.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

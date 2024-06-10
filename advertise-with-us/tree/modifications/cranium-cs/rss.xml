@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cranium CS - Чит для CS:Source</title>
+
+        <link>https://exloader.net/tree/modifications/cranium-cs/</link>
+        <atom:link href="https://exloader.net/tree/modifications/cranium-cs/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Неплохая модификация с красивым меню, возможностью удобной и быстрой настройки, которая предназначена для легит игр!</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Thu, 27 Apr 2023 15:40:53 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Cranium CS - Чит для CS:Source
+
+                <img alt="Cranium CS - Чит для CS:Source" src="https://data.exloader.net/webp_images/Cranium%20CSS/gameplay.webp">
+
+                Неплохая модификация с красивым меню, возможностью удобной и быстрой настройки, которая предназначена для легит игр!
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

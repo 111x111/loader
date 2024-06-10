@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Brend.cc - Чит для Rust Pirate</title>
+
+        <link>https://exloader.net/tree/modifications/brend-cc/</link>
+        <atom:link href="https://exloader.net/tree/modifications/brend-cc/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Простенький мод для игры на паблике, есть минимально-необходимый функционал для комфортной игры.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Wed, 10 Jan 2024 13:14:52 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Brend.cc - Чит для Rust Pirate
+
+                <img alt="Brend.cc - Чит для Rust Pirate" src="https://data.exloader.net/webp_images/Brend.cc/aimbot.webp">
+
+                Простенький мод для игры на паблике, есть минимально-необходимый функционал для комфортной игры.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

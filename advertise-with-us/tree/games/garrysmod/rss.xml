@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Читы для Garry&apos;s Mod</title>
+
+        <link>https://exloader.net/tree/games/garrysmod/</link>
+        <atom:link href="https://exloader.net/tree/games/garrysmod/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>С помощью Garry’s Mod можно проводить любые действия с объектами и персонажами из игр на движке Source (CS:S, CS:GO, TF2, HL2 и других игр в Steam на движке Source), например, менять текстуры, изменять размеры, копировать, соединять, взрывать, прикручивать колеса, изменять выражения лиц персонажей, изменять их кости, ставить в причудливые позы и т. д. Модификации предоставляют игроку огромные просторы для творчества. Garry’s Mod 9 предоставлял несколько сетевых режимов игры: игра в футбол с помощью гравипушки, стрельба из лазера, охота на птиц (одни игроки играют за охотников, другие — за птиц), гонки на арбузах и т. д. В Garry’s Mod 10 доступны режимы: «песочница», Ascension (двумерная игра, задача в которой — добраться до определённой точки), Dog Fight Arcade (воздушные сражения), Fretta, PropHunt, Trouble in Terrorist Town. Ранее был доступен режим гонок на арбузах, но был убран в связи с его непопулярностью. Другие игровые режимы доступны в виде отдельных скачиваемых дополнений.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Mon, 29 Apr 2024 22:00:04 +0000</pubDate>
+
+        
+        <item>
+            <title>CFF - Cheat Чит на Garry&apos;s Mod | x86</title>
+            <guid isPermaLink="true">https://exloader.net/tree/modifications/cff/</guid>
+            <link>https://exloader.net/tree/modifications/cff/</link>
+            <description>Модификация на оригинальную версию Garry&apos;s Mod. Удобна в настройке, выделяется минимальным процентом вылетов игры.</description>
+            
+            <content:encoded>
+                <![CDATA[
+                    CFF - Cheat Чит на Garry&apos;s Mod | x86
+        
+                    <img alt="CFF" src="https://data.exloader.net/webp_images/CFF/visuals.webp">
+        
+                    Модификация на оригинальную версию Garry&apos;s Mod. Удобна в настройке, выделяется минимальным процентом вылетов игры.
+                ]]>
+            </content:encoded>
+            
+            <category>Garry&apos;s Mod}</category>
+        </item>
+
+        <item>
+            <title>Nixware GMOD - Rage Рейдж | Rage чит на Garry&apos;s Mod | BETA: x86-x64</title>
+            <guid isPermaLink="true">https://exloader.net/tree/modifications/nixware-gmod/</guid>
+            <link>https://exloader.net/tree/modifications/nixware-gmod/</link>
+            <description>HvH модификация с менюшкой популярного CS:GO мода Nixware. Проста в настройке, выделяется красивыми анимациями и визуалами!</description>
+            
+            <content:encoded>
+                <![CDATA[
+                    Nixware GMOD - Rage Рейдж | Rage чит на Garry&apos;s Mod | BETA: x86-x64
+        
+                    <img alt="Nixware GMOD" src="https://data.exloader.net/webp_images/Nixware%20GMOD/gameplay.webp">
+        
+                    HvH модификация с менюшкой популярного CS:GO мода Nixware. Проста в настройке, выделяется красивыми анимациями и визуалами!
+                ]]>
+            </content:encoded>
+            
+            <category>Garry&apos;s Mod}</category>
+        </item>
+
+        <item>
+            <title>Cranium - Cheat Чит для Garry&apos;s Mod | BETA: x86-x64</title>
+            <guid isPermaLink="true">https://exloader.net/tree/modifications/cranium/</guid>
+            <link>https://exloader.net/tree/modifications/cranium/</link>
+            <description>Простая модификация для Garry&apos;s Mod с базовым меню и небольшим количеством функций. Имеет вкладку LUAs для пользовательских настроек, легко настраивается.</description>
+            
+            <content:encoded>
+                <![CDATA[
+                    Cranium - Cheat Чит для Garry&apos;s Mod | BETA: x86-x64
+        
+                    <img alt="Cranium" src="https://data.exloader.net/webp_images/Cranium/settings.webp">
+        
+                    Простая модификация для Garry&apos;s Mod с базовым меню и небольшим количеством функций. Имеет вкладку LUAs для пользовательских настроек, легко настраивается.
+                ]]>
+            </content:encoded>
+            
+            <category>Garry&apos;s Mod}</category>
+        </item>
+
+        <item>
+            <title>Memoriam - Cheat Чит для Garry&apos;s Mod | BETA: x86-x64</title>
+            <guid isPermaLink="true">https://exloader.net/tree/modifications/memoriam/</guid>
+            <link>https://exloader.net/tree/modifications/memoriam/</link>
+            <description>Необычное, но красивое меню, большое количество функций и система луа-скриптов - всё, что нужно для комфортной игры!</description>
+            
+            <content:encoded>
+                <![CDATA[
+                    Memoriam - Cheat Чит для Garry&apos;s Mod | BETA: x86-x64
+        
+                    <img alt="Memoriam" src="https://data.exloader.net/webp_images/Memoriam/players.webp">
+        
+                    Необычное, но красивое меню, большое количество функций и система луа-скриптов - всё, что нужно для комфортной игры!
+                ]]>
+            </content:encoded>
+            
+            <category>Garry&apos;s Mod}</category>
+        </item>
+
+        <item>
+            <title>Visuals Reborn - Legit Легит | Legit чит для Garry&apos;s Mod | BETA: x86-x64</title>
+            <guid isPermaLink="true">https://exloader.net/tree/modifications/visuals-reborn/</guid>
+            <link>https://exloader.net/tree/modifications/visuals-reborn/</link>
+            <description>Мод с ужасным меню, невероятно сложной настройкой и обширным функционалом. Как говорится имеем, что имеем.</description>
+            
+            <content:encoded>
+                <![CDATA[
+                    Visuals Reborn - Legit Легит | Legit чит для Garry&apos;s Mod | BETA: x86-x64
+        
+                    <img alt="Visuals Reborn" src="https://data.exloader.net/webp_images/GMOD%20Visuals%20Reborn/aimbot.webp">
+        
+                    Мод с ужасным меню, невероятно сложной настройкой и обширным функционалом. Как говорится имеем, что имеем.
+                ]]>
+            </content:encoded>
+            
+            <category>Garry&apos;s Mod}</category>
+        </item>
+
+        <item>
+            <title>Morion - Cheat Чит для Garry&apos;s Mod | x86</title>
+            <guid isPermaLink="true">https://exloader.net/tree/modifications/morion/</guid>
+            <link>https://exloader.net/tree/modifications/morion/</link>
+            <description>Данный мод работает на x86 версию Garry&apos;s Mod, поэтому отключите Chromium + 64 bit binaries в бета-версиях игры. Из проблем в модификации: не работают конфиги и нету Nospread, также не хватает Glua Loader.</description>
+            
+            <content:encoded>
+                <![CDATA[
+                    Morion - Cheat Чит для Garry&apos;s Mod | x86
+        
+                    <img alt="Morion" src="https://data.exloader.net/webp_images/Morion/aimbot.webp">
+        
+                    Данный мод работает на x86 версию Garry&apos;s Mod, поэтому отключите Chromium + 64 bit binaries в бета-версиях игры. Из проблем в модификации: не работают конфиги и нету Nospread, также не хватает Glua Loader.
+                ]]>
+            </content:encoded>
+            
+            <category>Garry&apos;s Mod}</category>
+        </item>
+
+        <item>
+            <title>GMOD-SDK - Rage Рейдж | Rage чит на Garry&apos;s Mod | BETA: x86-x64</title>
+            <guid isPermaLink="true">https://exloader.net/tree/modifications/gmod-sdk/</guid>
+            <link>https://exloader.net/tree/modifications/gmod-sdk/</link>
+            <description>Модификация в стилистике популярного софта для CS:GO, Gamesense. Удобна в настройке, подходит для игры на любом сервере.</description>
+            
+            <content:encoded>
+                <![CDATA[
+                    GMOD-SDK - Rage Рейдж | Rage чит на Garry&apos;s Mod | BETA: x86-x64
+        
+                    <img alt="GMOD-SDK" src="https://data.exloader.net/webp_images/GMOD-SDK/aimbot.webp">
+        
+                    Модификация в стилистике популярного софта для CS:GO, Gamesense. Удобна в настройке, подходит для игры на любом сервере.
+                ]]>
+            </content:encoded>
+            
+            <category>Garry&apos;s Mod}</category>
+        </item>
+
+    </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>EpicGlobal - Чит для Genshin</title>
+
+        <link>https://exloader.net/tree/modifications/epicglobal/</link>
+        <atom:link href="https://exloader.net/tree/modifications/epicglobal/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>После открытия консоли запуска модификации Вам необходимо нажимать Enter внутри неё для инъекции модификации.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Sun, 02 Oct 2022 11:00:00 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                EpicGlobal - Чит для Genshin
+
+                <img alt="EpicGlobal - Чит для Genshin" src="https://data.exloader.net/webp_images/EpicGlobal/eye_edited.webp">
+
+                После открытия консоли запуска модификации Вам необходимо нажимать Enter внутри неё для инъекции модификации.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

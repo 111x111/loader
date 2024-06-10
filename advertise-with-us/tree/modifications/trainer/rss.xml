@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Trainer - ВХ | WH | Волхак для CS:GO</title>
+
+        <link>https://exloader.net/tree/modifications/trainer/</link>
+        <atom:link href="https://exloader.net/tree/modifications/trainer/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Очень простая модификация для игры в легитном стиле, обладает меню, схожим с модификацией Osiris, крайне проста в настройке!</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Mon, 03 Oct 2022 21:00:00 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Trainer - ВХ | WH | Волхак для CS:GO
+
+                <img alt="Trainer - ВХ | WH | Волхак для CS:GO" src="https://data.exloader.net/webp_images/Trainer/main2.webp">
+
+                Очень простая модификация для игры в легитном стиле, обладает меню, схожим с модификацией Osiris, крайне проста в настройке!
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

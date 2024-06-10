@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Epoximotion - Рейдж | Rage чит для CS:Source</title>
+
+        <link>https://exloader.net/tree/modifications/epoximotion/</link>
+        <atom:link href="https://exloader.net/tree/modifications/epoximotion/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Отличный мод для хвх игр с приятным дизайном и системой кфг, сделан под 34ю версию CS-Source.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Sat, 17 Apr 2021 10:39:57 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Epoximotion - Рейдж | Rage чит для CS:Source
+
+                <img alt="Epoximotion - Рейдж | Rage чит для CS:Source" src="https://data.exloader.net/webp_images/Epoximotion/visuals.webp">
+
+                Отличный мод для хвх игр с приятным дизайном и системой кфг, сделан под 34ю версию CS-Source.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

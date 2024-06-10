@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Extender - Легит | Legit чит для CS:GO</title>
+
+        <link>https://exloader.net/tree/modifications/extender/</link>
+        <atom:link href="https://exloader.net/tree/modifications/extender/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Модификация, созданная в далёком 2019 году и работающая по сей день. Очень проста в настройке, отличается красивым ESP.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Tue, 26 Apr 2022 09:00:01 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Extender - Легит | Legit чит для CS:GO
+
+                <img alt="Extender - Легит | Legit чит для CS:GO" src="https://data.exloader.net/webp_images/Extender/misc_edited.webp">
+
+                Модификация, созданная в далёком 2019 году и работающая по сей день. Очень проста в настройке, отличается красивым ESP.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Lambda - Чит для Minecraft</title>
+
+        <link>https://exloader.net/tree/modifications/lambda/</link>
+        <atom:link href="https://exloader.net/tree/modifications/lambda/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Lambda - это бесплатный утилитарный мод для Minecraft 1.12.2 с открытым исходным кодом, созданный для серверов анархии. Концептуальная система плагинов позволяет добавлять дополнительные модули без необходимости создавать форк на GitHub!</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Sun, 07 Aug 2022 15:00:00 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Lambda - Чит для Minecraft
+
+                <img alt="Lambda - Чит для Minecraft" src="https://data.exloader.net/webp_images/Lambda/menu_edited.webp">
+
+                Lambda - это бесплатный утилитарный мод для Minecraft 1.12.2 с открытым исходным кодом, созданный для серверов анархии. Концептуальная система плагинов позволяет добавлять дополнительные модули без необходимости создавать форк на GitHub!
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

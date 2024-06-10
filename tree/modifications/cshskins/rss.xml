@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>cshSkins - Скинченджер | SkinChanger для CS:GO</title>
+
+        <link>https://exloader.net/tree/modifications/cshskins/</link>
+        <atom:link href="https://exloader.net/tree/modifications/cshskins/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Один из самых первых публичных скин-чейнджеров, созданный в далёком 2017 году, крайне прост в настройке, однако, имеет существенный недостаток в виде отстутствия превьюшек скинов.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Thu, 20 Jul 2023 13:37:59 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                cshSkins - Скинченджер | SkinChanger для CS:GO
+
+                <img alt="cshSkins - Скинченджер | SkinChanger для CS:GO" src="https://data.exloader.net/webp_images/cshSkins/gameplay.webp">
+
+                Один из самых первых публичных скин-чейнджеров, созданный в далёком 2017 году, крайне прост в настройке, однако, имеет существенный недостаток в виде отстутствия превьюшек скинов.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

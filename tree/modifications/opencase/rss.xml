@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>OpenCase - Чит для CS:GO</title>
+
+        <link>https://exloader.net/tree/modifications/opencase/</link>
+        <atom:link href="https://exloader.net/tree/modifications/opencase/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Модификация для открытия кейсов и капсул, имеет возможность изменения шансов на выпадение предметов из открываемых кейсов.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Wed, 21 Apr 2021 06:05:33 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                OpenCase - Чит для CS:GO
+
+                <img alt="OpenCase - Чит для CS:GO" src="https://data.exloader.net/webp_images/OpenCase/opened_edited.webp">
+
+                Модификация для открытия кейсов и капсул, имеет возможность изменения шансов на выпадение предметов из открываемых кейсов.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

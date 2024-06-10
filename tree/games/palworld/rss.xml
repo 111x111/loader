@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Читы для Palworld</title>
+
+        <link>https://exloader.net/tree/games/palworld/</link>
+        <atom:link href="https://exloader.net/tree/games/palworld/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Собирайте удивительных существ — Палов — на просторах огромного мира, отправляйте их сражаться и трудиться на фабриках, стройте с их помощью здания и выращивайте плантации в этом абсолютно новом симуляторе выживания в открытом мире, поддерживающем совместный режим.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Mon, 29 Apr 2024 22:00:04 +0000</pubDate>
+
+        
+        <item>
+            <title>PalWorld-NetCrack - Cheat Чит на Palworld | v0.1.5.1 - v0.1.5.1</title>
+            <guid isPermaLink="true">https://exloader.net/tree/modifications/palworld-netcrack/</guid>
+            <link>https://exloader.net/tree/modifications/palworld-netcrack/</link>
+            <description>В основном мод сделан для синг-плеера, однако, часть функционала работает и в мультиплеерной версии игры. Удобен в настройке.</description>
+            
+            <content:encoded>
+                <![CDATA[
+                    PalWorld-NetCrack - Cheat Чит на Palworld | v0.1.5.1 - v0.1.5.1
+        
+                    <img alt="PalWorld-NetCrack" src="https://data.exloader.net/webp_images/NetCrack-PalWorld/main.webp">
+        
+                    В основном мод сделан для синг-плеера, однако, часть функционала работает и в мультиплеерной версии игры. Удобен в настройке.
+                ]]>
+            </content:encoded>
+            
+            <category>Palworld}</category>
+        </item>
+
+    </channel>
+</rss>

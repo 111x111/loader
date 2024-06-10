@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>CovertGlow - ВХ | WH | Волхак для CS:GO</title>
+
+        <link>https://exloader.net/tree/modifications/covertglow/</link>
+        <atom:link href="https://exloader.net/tree/modifications/covertglow/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>External модификация для игры в максимально легитном стиле без рисков на понижение траст-фактора. Включает в себя лишь ВХ функционал!</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Sun, 12 Dec 2021 08:59:30 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                CovertGlow - ВХ | WH | Волхак для CS:GO
+
+                <img alt="CovertGlow - ВХ | WH | Волхак для CS:GO" src="https://data.exloader.net/webp_images/CovertGlow/enemy_edited.webp">
+
+                External модификация для игры в максимально легитном стиле без рисков на понижение траст-фактора. Включает в себя лишь ВХ функционал!
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

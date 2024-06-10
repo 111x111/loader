@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>OChanger - Скинченджер | SkinChanger для CS:GO</title>
+
+        <link>https://exloader.net/tree/modifications/ochanger/</link>
+        <atom:link href="https://exloader.net/tree/modifications/ochanger/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Скин-чейнджер из модификации Osiris. Добавляет скины в инвентарь, крайне удобен в настроке, имеет приятное меню в стиле своего прородителя.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Sat, 11 Dec 2021 11:08:02 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                OChanger - Скинченджер | SkinChanger для CS:GO
+
+                <img alt="OChanger - Скинченджер | SkinChanger для CS:GO" src="https://data.exloader.net/webp_images/OChanger/main_edited.webp">
+
+                Скин-чейнджер из модификации Osiris. Добавляет скины в инвентарь, крайне удобен в настроке, имеет приятное меню в стиле своего прородителя.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

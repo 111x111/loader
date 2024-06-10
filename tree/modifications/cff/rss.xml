@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>CFF - Чит для Garry&apos;s Mod</title>
+
+        <link>https://exloader.net/tree/modifications/cff/</link>
+        <atom:link href="https://exloader.net/tree/modifications/cff/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Модификация на оригинальную версию Garry&apos;s Mod. Удобна в настройке, выделяется минимальным процентом вылетов игры.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Thu, 16 Mar 2023 09:39:46 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                CFF - Чит для Garry&apos;s Mod
+
+                <img alt="CFF - Чит для Garry&apos;s Mod" src="https://data.exloader.net/webp_images/CFF/aimbot.webp">
+
+                Модификация на оригинальную версию Garry&apos;s Mod. Удобна в настройке, выделяется минимальным процентом вылетов игры.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

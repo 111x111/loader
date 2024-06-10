@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>PalWorld-NetCrack - Чит для Palworld</title>
+
+        <link>https://exloader.net/tree/modifications/palworld-netcrack/</link>
+        <atom:link href="https://exloader.net/tree/modifications/palworld-netcrack/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>В основном мод сделан для синг-плеера, однако, часть функционала работает и в мультиплеерной версии игры. Удобен в настройке.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Fri, 09 Feb 2024 11:41:49 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                PalWorld-NetCrack - Чит для Palworld
+
+                <img alt="PalWorld-NetCrack - Чит для Palworld" src="https://data.exloader.net/webp_images/NetCrack-PalWorld/exploit.webp">
+
+                В основном мод сделан для синг-плеера, однако, часть функционала работает и в мультиплеерной версии игры. Удобен в настройке.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

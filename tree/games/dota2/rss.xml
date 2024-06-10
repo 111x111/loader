@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Читы для Dota 2</title>
+
+        <link>https://exloader.net/tree/games/dota2/</link>
+        <atom:link href="https://exloader.net/tree/games/dota2/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Dota 2 — многопользовательская командная компьютерная игра в жанре MOBA, разработанная и изданная корпорацией Valve. Игра является продолжением DotA — пользовательской карты-модификации для игры Warcraft III: Reign of Chaos и дополнения к ней Warcraft III: The Frozen Throne. Игра изображает сражение на карте особого вида; в каждом матче участвуют две команды по пять игроков, управляющих разными «героями» — персонажами с различными наборами способностей и характеристиками. Для победы в матче команда должна уничтожить особый объект — «крепость», принадлежащий вражеской стороне, и защитить от уничтожения собственную «крепость». Dota 2 работает по модели free-to-play с элементами микроплатежей.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Mon, 29 Apr 2024 22:00:04 +0000</pubDate>
+
+        
+        <item>
+            <title>Minify - Cheat Чит для Dota 2</title>
+            <guid isPermaLink="true">https://exloader.net/tree/modifications/minify/</guid>
+            <link>https://exloader.net/tree/modifications/minify/</link>
+            <description>Dota2 Mod Patcher &amp; Toolkit для всех, кто хочет легко использовать моды. Требует некоторой настройки и времени, но меняет игру до неузнаваемости!</description>
+            
+            <content:encoded>
+                <![CDATA[
+                    Minify - Cheat Чит для Dota 2
+        
+                    <img alt="Minify" src="https://data.exloader.net/webp_images/Minify/menu.webp">
+        
+                    Dota2 Mod Patcher &amp; Toolkit для всех, кто хочет легко использовать моды. Требует некоторой настройки и времени, но меняет игру до неузнаваемости!
+                ]]>
+            </content:encoded>
+            
+            <category>Dota 2}</category>
+        </item>
+
+        <item>
+            <title>D2JSR - Cheat Чит на Dota 2</title>
+            <guid isPermaLink="true">https://exloader.net/tree/modifications/d2jsr/</guid>
+            <link>https://exloader.net/tree/modifications/d2jsr/</link>
+            <description>Бесплатная версия платного мода и скинчейнджера для доты2 D2JSR (D2JS Reload). Позволяет тебе ознакомится с функционалом мода перед решешием использования премиум версии!</description>
+            
+            <content:encoded>
+                <![CDATA[
+                    D2JSR - Cheat Чит на Dota 2
+        
+                    <img alt="D2JSR" src="https://data.exloader.net/webp_images/D2JSR/settings.webp">
+        
+                    Бесплатная версия платного мода и скинчейнджера для доты2 D2JSR (D2JS Reload). Позволяет тебе ознакомится с функционалом мода перед решешием использования премиум версии!
+                ]]>
+            </content:encoded>
+            
+            <category>Dota 2}</category>
+        </item>
+
+        <item>
+            <title>Ext. D2Patcher - Cheat Чит для Dota 2</title>
+            <guid isPermaLink="true">https://exloader.net/tree/modifications/ext--d2patcher/</guid>
+            <link>https://exloader.net/tree/modifications/ext--d2patcher/</link>
+            <description>External патчер, позволяющий включить разные полезные функции, например отдалить камеру, показать мана-бары противника, удалить туман и т.д.</description>
+            
+            <content:encoded>
+                <![CDATA[
+                    Ext. D2Patcher - Cheat Чит для Dota 2
+        
+                    <img alt="Ext. D2Patcher" src="https://data.exloader.net/webp_images/D2Patcher/menu.webp">
+        
+                    External патчер, позволяющий включить разные полезные функции, например отдалить камеру, показать мана-бары противника, удалить туман и т.д.
+                ]]>
+            </content:encoded>
+            
+            <category>Dota 2}</category>
+        </item>
+
+        <item>
+            <title>Crimson - Cheat Чит для Dota 2</title>
+            <guid isPermaLink="true">https://exloader.net/tree/modifications/crimson/</guid>
+            <link>https://exloader.net/tree/modifications/crimson/</link>
+            <description>Одна из немногих бесплатных модификаций для Dota 2. Обладает небольшим функционалом и удобным меню, часто обновляется и проста в настройке.</description>
+            
+            <content:encoded>
+                <![CDATA[
+                    Crimson - Cheat Чит для Dota 2
+        
+                    <img alt="Crimson" src="https://data.exloader.net/webp_images/Crimson/ability_edited.webp">
+        
+                    Одна из немногих бесплатных модификаций для Dota 2. Обладает небольшим функционалом и удобным меню, часто обновляется и проста в настройке.
+                ]]>
+            </content:encoded>
+            
+            <category>Dota 2}</category>
+        </item>
+
+    </channel>
+</rss>

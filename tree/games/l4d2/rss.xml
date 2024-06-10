@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Читы для Left 4 Dead 2</title>
+
+        <link>https://exloader.net/tree/games/l4d2/</link>
+        <atom:link href="https://exloader.net/tree/games/l4d2/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Настоящий зомби-апокалипсис Left 4 Dead 2 (L4D2) — это долгожданный сиквел к обладательнице многих наград Left 4 Dead — лучшей кооперативной игре 2008 года. В этом кооперативном хоррор-шутере от первого лица вы вместе с друзьями пройдёте пять больших...</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Mon, 29 Apr 2024 22:00:04 +0000</pubDate>
+
+        
+        <item>
+            <title>Polonium - Cheat Чит для Left 4 Dead 2</title>
+            <guid isPermaLink="true">https://exloader.net/tree/modifications/polonium/</guid>
+            <link>https://exloader.net/tree/modifications/polonium/</link>
+            <description>Модификация с крайне неудобным меню, управляемым стрелочками, однако, имеющая крайне обширный функционал.</description>
+            
+            <content:encoded>
+                <![CDATA[
+                    Polonium - Cheat Чит для Left 4 Dead 2
+        
+                    <img alt="Polonium" src="https://data.exloader.net/webp_images/Polonium/chams.webp">
+        
+                    Модификация с крайне неудобным меню, управляемым стрелочками, однако, имеющая крайне обширный функционал.
+                ]]>
+            </content:encoded>
+            
+            <category>Left 4 Dead 2}</category>
+        </item>
+
+        <item>
+            <title>UwUHax - Legit Легит | Legit чит на Left 4 Dead 2</title>
+            <guid isPermaLink="true">https://exloader.net/tree/modifications/uwuhax/</guid>
+            <link>https://exloader.net/tree/modifications/uwuhax/</link>
+            <description>Простой, однако, удобный в настройке мод, имеет возможность сохранить свой кфг, не понижает производительность!</description>
+            
+            <content:encoded>
+                <![CDATA[
+                    UwUHax - Legit Легит | Legit чит на Left 4 Dead 2
+        
+                    <img alt="UwUHax" src="https://data.exloader.net/webp_images/UwUHax/misc.webp">
+        
+                    Простой, однако, удобный в настройке мод, имеет возможность сохранить свой кфг, не понижает производительность!
+                ]]>
+            </content:encoded>
+            
+            <category>Left 4 Dead 2}</category>
+        </item>
+
+        <item>
+            <title>Dunt0 - Cheat Чит на Left 4 Dead 2</title>
+            <guid isPermaLink="true">https://exloader.net/tree/modifications/dunt0/</guid>
+            <link>https://exloader.net/tree/modifications/dunt0/</link>
+            <description>Хороший мод с красивым меню, созданный популярным разработчиком-стримером Urbanichka, прост в настройке.</description>
+            
+            <content:encoded>
+                <![CDATA[
+                    Dunt0 - Cheat Чит на Left 4 Dead 2
+        
+                    <img alt="Dunt0" src="https://data.exloader.net/webp_images/Dunt0/aimbot.webp">
+        
+                    Хороший мод с красивым меню, созданный популярным разработчиком-стримером Urbanichka, прост в настройке.
+                ]]>
+            </content:encoded>
+            
+            <category>Left 4 Dead 2}</category>
+        </item>
+
+    </channel>
+</rss>

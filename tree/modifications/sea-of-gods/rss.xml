@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Sea Of Gods - Чит для Sea of Thieves</title>
+
+        <link>https://exloader.net/tree/modifications/sea-of-gods/</link>
+        <atom:link href="https://exloader.net/tree/modifications/sea-of-gods/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Вторая версия крайне известного мода Sea Of Gods, поддерживающая все версии Windows и имеющая огромное количество функций для комфортной игры.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Sat, 10 Feb 2024 13:13:37 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Sea Of Gods - Чит для Sea of Thieves
+
+                <img alt="Sea Of Gods - Чит для Sea of Thieves" src="https://data.exloader.net/webp_images/SeoOfGods/gameplay.webp">
+
+                Вторая версия крайне известного мода Sea Of Gods, поддерживающая все версии Windows и имеющая огромное количество функций для комфортной игры.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

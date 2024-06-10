@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>TrollHack - Чит для Minecraft</title>
+
+        <link>https://exloader.net/tree/modifications/trollhack/</link>
+        <atom:link href="https://exloader.net/tree/modifications/trollhack/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Специализированный клиент для серверов Anarchy. Обладает множеством &quot;устрашающих&quot; функций, которые дают вам подавляющее преимущество в PvP-сражениях.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Mon, 05 Sep 2022 14:00:00 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                TrollHack - Чит для Minecraft
+
+                <img alt="TrollHack - Чит для Minecraft" src="https://data.exloader.net/webp_images/TrollHack/menu-second.webp">
+
+                Специализированный клиент для серверов Anarchy. Обладает множеством &quot;устрашающих&quot; функций, которые дают вам подавляющее преимущество в PvP-сражениях.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

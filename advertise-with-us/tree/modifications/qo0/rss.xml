@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Qo0 - Чит для CS:GO</title>
+
+        <link>https://exloader.net/tree/modifications/qo0/</link>
+        <atom:link href="https://exloader.net/tree/modifications/qo0/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Модификация с ESP в стиле игры Minecraft, обладает красивым меню с крутыми анимациями и отличается простотой в настройке!</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Fri, 02 Jun 2023 20:34:57 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Qo0 - Чит для CS:GO
+
+                <img alt="Qo0 - Чит для CS:GO" src="https://data.exloader.net/webp_images/Qo0/legit_edited.webp">
+
+                Модификация с ESP в стиле игры Minecraft, обладает красивым меню с крутыми анимациями и отличается простотой в настройке!
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

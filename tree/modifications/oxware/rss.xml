@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Oxware - Чит для CS 1.6</title>
+
+        <link>https://exloader.net/tree/modifications/oxware/</link>
+        <atom:link href="https://exloader.net/tree/modifications/oxware/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Бесплатная Counter-Strike 1.6 модификация, созданная с любовью и страстью, содержащая 72 896 строк кода на C++ и 363 исходных файлах!</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Sun, 14 Jan 2024 10:30:05 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Oxware - Чит для CS 1.6
+
+                <img alt="Oxware - Чит для CS 1.6" src="https://data.exloader.net/webp_images/Oxware/movement.webp">
+
+                Бесплатная Counter-Strike 1.6 модификация, созданная с любовью и страстью, содержащая 72 896 строк кода на C++ и 363 исходных файлах!
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

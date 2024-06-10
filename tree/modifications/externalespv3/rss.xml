@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>ExternalESPV3 - Легит | Legit чит для Sea of Thieves</title>
+
+        <link>https://exloader.net/tree/modifications/externalespv3/</link>
+        <atom:link href="https://exloader.net/tree/modifications/externalespv3/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Простенькая External модификация, которая не внедряется в игру и работает как вшений процесс. Включает в себя волхак и аимбот для комфортной игры, крайне проста в настройке.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Sun, 03 Dec 2023 12:59:18 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                ExternalESPV3 - Легит | Legit чит для Sea of Thieves
+
+                <img alt="ExternalESPV3 - Легит | Legit чит для Sea of Thieves" src="https://data.exloader.net/webp_images/ExternalESPV3/misc.webp">
+
+                Простенькая External модификация, которая не внедряется в игру и работает как вшений процесс. Включает в себя волхак и аимбот для комфортной игры, крайне проста в настройке.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

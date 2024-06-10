@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>EnProject - Чит для CS:GO</title>
+
+        <link>https://exloader.net/tree/modifications/enproject/</link>
+        <atom:link href="https://exloader.net/tree/modifications/enproject/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Неплохая, но и не лучшая хвх модификация. Обладает базовым рейдж функционалом и скин-чейнджером старого формата.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Sun, 11 Jun 2023 09:50:51 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                EnProject - Чит для CS:GO
+
+                <img alt="EnProject - Чит для CS:GO" src="https://data.exloader.net/webp_images/EnProject/skins.webp">
+
+                Неплохая, но и не лучшая хвх модификация. Обладает базовым рейдж функционалом и скин-чейнджером старого формата.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

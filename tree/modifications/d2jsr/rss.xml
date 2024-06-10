@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>D2JSR - Чит для Dota 2</title>
+
+        <link>https://exloader.net/tree/modifications/d2jsr/</link>
+        <atom:link href="https://exloader.net/tree/modifications/d2jsr/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Бесплатная версия платного мода и скинчейнджера для доты2 D2JSR (D2JS Reload). Позволяет тебе ознакомится с функционалом мода перед решешием использования премиум версии!</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Sun, 21 Apr 2024 12:57:32 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                D2JSR - Чит для Dota 2
+
+                <img alt="D2JSR - Чит для Dota 2" src="https://data.exloader.net/webp_images/D2JSR/camera.webp">
+
+                Бесплатная версия платного мода и скинчейнджера для доты2 D2JSR (D2JS Reload). Позволяет тебе ознакомится с функционалом мода перед решешием использования премиум версии!
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

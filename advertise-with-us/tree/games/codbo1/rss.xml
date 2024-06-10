@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Читы для CoD: Black Ops I / Call of Duty: Black Ops I</title>
+
+        <link>https://exloader.net/tree/games/codbo1/</link>
+        <atom:link href="https://exloader.net/tree/games/codbo1/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Встречайте продолжение Call of Duty®: Modern Warfare 2, последнюю часть самой крупной серии экшенов с видом от первого лица, Call of Duty®: Black Ops.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Mon, 29 Apr 2024 22:00:04 +0000</pubDate>
+
+        
+        <item>
+            <title>Cranium BO1 - Cheat Чит на CoD: Black Ops I</title>
+            <guid isPermaLink="true">https://exloader.net/tree/modifications/cranium-bo1/</guid>
+            <link>https://exloader.net/tree/modifications/cranium-bo1/</link>
+            <description>Хороший мод с красивым меню, созданный популярным разработчиком-стримером Urbanichka, прост в настройке.</description>
+            
+            <content:encoded>
+                <![CDATA[
+                    Cranium BO1 - Cheat Чит на CoD: Black Ops I
+        
+                    <img alt="Cranium BO1" src="https://data.exloader.net/webp_images/Cranium%20CoD/wh.webp">
+        
+                    Хороший мод с красивым меню, созданный популярным разработчиком-стримером Urbanichka, прост в настройке.
+                ]]>
+            </content:encoded>
+            
+            <category>CoD: Black Ops I / Call of Duty: Black Ops I}</category>
+        </item>
+
+    </channel>
+</rss>

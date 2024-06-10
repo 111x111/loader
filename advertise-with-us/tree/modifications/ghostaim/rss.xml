@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>GhostAim - Аим | Aim | Триггер | Trigger для CS:GO</title>
+
+        <link>https://exloader.net/tree/modifications/ghostaim/</link>
+        <atom:link href="https://exloader.net/tree/modifications/ghostaim/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Модификация, предназначенная для коррекции стрельбы под летитный стиль. Своеобразна в настройке, обладает уникальным меню.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Sun, 15 Aug 2021 09:16:45 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                GhostAim - Аим | Aim | Триггер | Trigger для CS:GO
+
+                <img alt="GhostAim - Аим | Aim | Триггер | Trigger для CS:GO" src="https://data.exloader.net/webp_images/GhostAim/main_edited.webp">
+
+                Модификация, предназначенная для коррекции стрельбы под летитный стиль. Своеобразна в настройке, обладает уникальным меню.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

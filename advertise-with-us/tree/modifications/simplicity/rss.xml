@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Simplicity - Чит для Rust Pirate</title>
+
+        <link>https://exloader.net/tree/modifications/simplicity/</link>
+        <atom:link href="https://exloader.net/tree/modifications/simplicity/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Бесплатный мод в котором есть все необходимое для комфортной игры, присутствует манипулятор и еще парочка разных эксплоитов.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Sat, 30 Dec 2023 17:09:05 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Simplicity - Чит для Rust Pirate
+
+                <img alt="Simplicity - Чит для Rust Pirate" src="https://data.exloader.net/webp_images/Simplicity/misc.webp">
+
+                Бесплатный мод в котором есть все необходимое для комфортной игры, присутствует манипулятор и еще парочка разных эксплоитов.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

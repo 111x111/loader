@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Meteor - Чит для Minecraft</title>
+
+        <link>https://exloader.net/tree/modifications/meteor/</link>
+        <atom:link href="https://exloader.net/tree/modifications/meteor/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Клиент для Fabric который содержит в себе около 170 разных функций, многие из которых созданы для получения преимущества над другими игроками. Клиент также содержит в себе и другие интересные функции, возможность биндить клавиши, выделять друзей, имеет встроенный бот baritone, позволяет настроить HUD и многое другое.</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Sun, 02 Oct 2022 19:00:00 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                Meteor - Чит для Minecraft
+
+                <img alt="Meteor - Чит для Minecraft" src="https://data.exloader.net/webp_images/Meteor/header.webp">
+
+                Клиент для Fabric который содержит в себе около 170 разных функций, многие из которых созданы для получения преимущества над другими игроками. Клиент также содержит в себе и другие интересные функции, возможность биндить клавиши, выделять друзей, имеет встроенный бот baritone, позволяет настроить HUD и многое другое.
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>

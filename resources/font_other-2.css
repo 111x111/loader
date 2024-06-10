@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Noir Pro';
+  font-style: normal;
+  font-weight: 700;
+  src: url('fonts/NoirPro-Bold.eot'); /* IE9 Compat Modes */
+  src: url('fonts/NoirPro-Bold-1.eot') format('embedded-opentype'), /* IE6-IE8 */ url('fonts/NoirPro-Bold.woff2') format('woff2'), /* Super Modern Browsers */ url('fonts/NoirPro-Bold.woff') format('woff'); /* Pretty Modern Browsers */
+}
+
+@font-face {
+  font-family: 'Noir Pro';
+  font-style: normal;
+  font-weight: 500;
+  src: url('fonts/NoirPro-Medium.eot'); /* IE9 Compat Modes */
+  src: url('fonts/NoirPro-Medium-1.eot') format('embedded-opentype'), /* IE6-IE8 */ url('fonts/NoirPro-Medium.woff2') format('woff2'), /* Super Modern Browsers */ url('fonts/NoirPro-Medium.woff') format('woff'); /* Pretty Modern Browsers */
+}
+
+@font-face {
+  font-family: 'Noir Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/NoirPro-Regular.eot'); /* IE9 Compat Modes */
+  src: url('fonts/NoirPro-Regular-1.eot') format('embedded-opentype'), /* IE6-IE8 */ url('fonts/NoirPro-Regular.woff2') format('woff2'), /* Super Modern Browsers */ url('fonts/NoirPro-Regular.woff') format('woff'); /* Pretty Modern Browsers */
+}
+
+body {
+  font-family: 'Noir Pro', Fallback, sans-serif;
+}

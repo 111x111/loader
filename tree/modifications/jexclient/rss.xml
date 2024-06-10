@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>JexClient - Чит для Minecraft</title>
+
+        <link>https://exloader.net/tree/modifications/jexclient/</link>
+        <atom:link href="https://exloader.net/tree/modifications/jexclient/rss.xml" rel="self" type="application/rss+xml" />
+
+        <language>ru</language>
+        <description>Jex Client - это бесплатный клиент с открытым исходным кодом, предназначенный для серверов Anarchy на последней версии Minecraft Java Edition. Имеет возможность загружать аддоны, созданные сообществом, и поддерживает переводы, созданные сообществом!</description>
+        <generator>https://exloader.net</generator>
+        <pubDate>Sun, 04 Sep 2022 16:00:00 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                JexClient - Чит для Minecraft
+
+                <img alt="JexClient - Чит для Minecraft" src="https://data.exloader.net/webp_images/JexClient/baritone-support.webp">
+
+                Jex Client - это бесплатный клиент с открытым исходным кодом, предназначенный для серверов Anarchy на последней версии Minecraft Java Edition. Имеет возможность загружать аддоны, созданные сообществом, и поддерживает переводы, созданные сообществом!
+            ]]>
+        </content:encoded>
+    </channel>
+</rss>
